@@ -23,6 +23,7 @@ else:
     annotations = []
 
 # Create a dictionary for quick lookup of annotated entries by definition
+# breakpoint()
 annotation_map = {entry['d']: entry for entry in annotations}
 
 # Load progress or start from scratch

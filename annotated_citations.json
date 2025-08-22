@@ -7534,186 +7534,16 @@
         }
     },
     {
-        "f": "nhemoaûîé",
+        "f": "nhemoaûîé2",
         "o": "",
         "d": "(v. intr.) - render-se, dar-se por vencido, entregar-se: Erenhemoaûîépe nde kerype nde resé abá rekó mo'angeme? - Tu te entregaste ao imaginar em teu sono que um homem fazia sexo contigo? (Ar., Cat., 235, 1686)",
         "i": 7969,
-        "c": [
-            {
-                "f": "oré oronhemoaûîé",
-                "s": "1ppe",
-                "o": null,
-                "m": "in",
-                "n": "oré n'oronhemoaûîéî"
-            },
-            {
-                "f": "îandé îanhemoaûîé",
-                "s": "1ppi",
-                "o": null,
-                "m": "in",
-                "n": "îandé n'îanhemoaûîéî"
-            },
-            {
-                "f": "ixé anhemoaûîé",
-                "s": "1ps",
-                "o": null,
-                "m": "in",
-                "n": "ixé n'anhemoaûîéî"
-            },
-            {
-                "f": "peẽ penhemoaûîé",
-                "s": "2pp",
-                "o": null,
-                "m": "in",
-                "n": "peẽ na penhemoaûîéî"
-            },
-            {
-                "f": "endé erenhemoaûîé",
-                "s": "2ps",
-                "o": null,
-                "m": "in",
-                "n": "endé n'erenhemoaûîéî"
-            },
-            {
-                "f": "a'e onhemoaûîé",
-                "s": "3p",
-                "o": null,
-                "m": "in",
-                "n": "a'e n'onhemoaûîéî"
-            },
-            {
-                "f": "oronhemoaûîébo",
-                "s": "1ppe",
-                "o": null,
-                "m": "ge",
-                "n": "oronhemoaûîée'yma"
-            },
-            {
-                "f": "îanhemoaûîébo",
-                "s": "1ppi",
-                "o": null,
-                "m": "ge",
-                "n": "îanhemoaûîée'yma"
-            },
-            {
-                "f": "gûinhemoaûîébo",
-                "s": "1ps",
-                "o": null,
-                "m": "ge",
-                "n": "gûinhemoaûîée'yma"
-            },
-            {
-                "f": "penhemoaûîébo",
-                "s": "2pp",
-                "o": null,
-                "m": "ge",
-                "n": "penhemoaûîée'yma"
-            },
-            {
-                "f": "enhemoaûîébo",
-                "s": "2ps",
-                "o": null,
-                "m": "ge",
-                "n": "enhemoaûîée'yma"
-            },
-            {
-                "f": "onhemoaûîébo",
-                "s": "3p",
-                "o": null,
-                "m": "ge",
-                "n": "onhemoaûîée'yma"
-            },
-            {
-                "f": "oré nhemoaûîéû",
-                "s": "1ppe",
-                "o": null,
-                "m": "ci",
-                "n": "oré nhemoaûîée'ymi"
-            },
-            {
-                "f": "îandé nhemoaûîéû",
-                "s": "1ppi",
-                "o": null,
-                "m": "ci",
-                "n": "îandé nhemoaûîée'ymi"
-            },
-            {
-                "f": "xe nhemoaûîéû",
-                "s": "1ps",
-                "o": null,
-                "m": "ci",
-                "n": "xe nhemoaûîée'ymi"
-            },
-            {
-                "f": "i nhemoaûîéû",
-                "s": "3p",
-                "o": null,
-                "m": "ci",
-                "n": "i nhemoaûîée'ymi"
-            },
-            {
-                "f": "peẽ penhemoaûîé",
-                "s": "2pp",
-                "o": null,
-                "m": "im",
-                "n": "peẽ penhemoaûîé umẽ"
-            },
-            {
-                "f": "endé enhemoaûîé",
-                "s": "2ps",
-                "o": null,
-                "m": "im",
-                "n": "endé enhemoaûîé umẽ"
-            },
-            {
-                "f": "oré toronhemoaûîé",
-                "s": "1ppe",
-                "o": null,
-                "m": "pe",
-                "n": "oré toronhemoaûîé umẽ"
-            },
-            {
-                "f": "îandé tîanhemoaûîé",
-                "s": "1ppi",
-                "o": null,
-                "m": "pe",
-                "n": "îandé tîanhemoaûîé umẽ"
-            },
-            {
-                "f": "ixé tanhemoaûîé",
-                "s": "1ps",
-                "o": null,
-                "m": "pe",
-                "n": "ixé tanhemoaûîé umẽ"
-            },
-            {
-                "f": "peẽ tapenhemoaûîé",
-                "s": "2pp",
-                "o": null,
-                "m": "pe",
-                "n": "peẽ tapenhemoaûîé umẽ"
-            },
-            {
-                "f": "endé terenhemoaûîé",
-                "s": "2ps",
-                "o": null,
-                "m": "pe",
-                "n": "endé terenhemoaûîé umẽ"
-            },
-            {
-                "f": "a'e tonhemoaûîé",
-                "s": "3p",
-                "o": null,
-                "m": "pe",
-                "n": "a'e tonhemoaûîé umẽ"
-            }
-        ],
         "tags": {
             "cit": "Erenhemoaûîépe nde kerype nde resé abá rekó mo'angeme? - Tu te entregaste ao imaginar em teu sono que um homem fazia sexo contigo? (Ar., Cat., 235, 1686)",
             "word": "abá rekó mo'angeme",
             "sujs": "endé",
             "sujp": "endé",
-            "trans": "ao"
+            "trans": "quando"
         }
     },
     {
@@ -9808,6 +9638,3591 @@
             "word": "tobaîara nde retama pîareme",
             "sujs": "tobaîara",
             "sujp": "endé",
+            "trans": "quando"
+        }
+    },
+    {
+        "f": "poesemõ",
+        "o": "",
+        "d": "(etim. - encher as mãos) (v.tr.) - encher, abarrotar, repletar: Ereîmoîebyrype kaûĩ nde poesemõneme? - Vomitaste cauim quando te encheu? (Anch., Doutr. Cristã, II, 103) [v. tb. esemõ] (VLB, I, 17)",
+        "i": 8842,
+        "c": [
+            {
+                "f": "ixé oropoesemõ",
+                "s": "1ps",
+                "o": "2ps",
+                "m": "in",
+                "n": "ixé n'oropoesemõî"
+            },
+            {
+                "f": "ixé opopoesemõ",
+                "s": "1ps",
+                "o": "2pp",
+                "m": "in",
+                "n": "ixé n'opopoesemõî"
+            },
+            {
+                "f": "ixé a'e aîpoesemõ",
+                "s": "1ps",
+                "o": "3p",
+                "m": "in",
+                "n": "ixé a'e n'aîpoesemõî"
+            },
+            {
+                "f": "ixé aîepoesemõ",
+                "s": "1ps",
+                "o": "refl",
+                "m": "in",
+                "n": "ixé n'aîepoesemõî"
+            },
+            {
+                "f": "oré oropoesemõ",
+                "s": "1ppe",
+                "o": "2ps",
+                "m": "in",
+                "n": "oré n'oropoesemõî"
+            },
+            {
+                "f": "oré opopoesemõ",
+                "s": "1ppe",
+                "o": "2pp",
+                "m": "in",
+                "n": "oré n'opopoesemõî"
+            },
+            {
+                "f": "oré a'e oroîpoesemõ",
+                "s": "1ppe",
+                "o": "3p",
+                "m": "in",
+                "n": "oré a'e n'oroîpoesemõî"
+            },
+            {
+                "f": "oré oroîepoesemõ",
+                "s": "1ppe",
+                "o": "refl",
+                "m": "in",
+                "n": "oré n'oroîepoesemõî"
+            },
+            {
+                "f": "oré oroîopoesemõ",
+                "s": "1ppe",
+                "o": "mut",
+                "m": "in",
+                "n": "oré n'oroîopoesemõî"
+            },
+            {
+                "f": "îandé a'e îaîpoesemõ",
+                "s": "1ppi",
+                "o": "3p",
+                "m": "in",
+                "n": "îandé a'e n'îaîpoesemõî"
+            },
+            {
+                "f": "îandé îaîepoesemõ",
+                "s": "1ppi",
+                "o": "refl",
+                "m": "in",
+                "n": "îandé n'îaîepoesemõî"
+            },
+            {
+                "f": "îandé îaîopoesemõ",
+                "s": "1ppi",
+                "o": "mut",
+                "m": "in",
+                "n": "îandé n'îaîopoesemõî"
+            },
+            {
+                "f": "xepoesemõ îepé",
+                "s": "2ps",
+                "o": "1ps",
+                "m": "in",
+                "n": "na xepoesemõî îepé"
+            },
+            {
+                "f": "orépoesemõ îepé",
+                "s": "2ps",
+                "o": "1ppe",
+                "m": "in",
+                "n": "n'orépoesemõî îepé"
+            },
+            {
+                "f": "endé a'e ereîpoesemõ",
+                "s": "2ps",
+                "o": "3p",
+                "m": "in",
+                "n": "endé a'e n'ereîpoesemõî"
+            },
+            {
+                "f": "endé ereîepoesemõ",
+                "s": "2ps",
+                "o": "refl",
+                "m": "in",
+                "n": "endé n'ereîepoesemõî"
+            },
+            {
+                "f": "xepoesemõ peîepé",
+                "s": "2pp",
+                "o": "1ps",
+                "m": "in",
+                "n": "na xepoesemõî peîepé"
+            },
+            {
+                "f": "orépoesemõ peîepé",
+                "s": "2pp",
+                "o": "1ppe",
+                "m": "in",
+                "n": "n'orépoesemõî peîepé"
+            },
+            {
+                "f": "peẽ a'e peîpoesemõ",
+                "s": "2pp",
+                "o": "3p",
+                "m": "in",
+                "n": "peẽ a'e na peîpoesemõî"
+            },
+            {
+                "f": "peẽ peîepoesemõ",
+                "s": "2pp",
+                "o": "refl",
+                "m": "in",
+                "n": "peẽ na peîepoesemõî"
+            },
+            {
+                "f": "peẽ peîopoesemõ",
+                "s": "2pp",
+                "o": "mut",
+                "m": "in",
+                "n": "peẽ na peîopoesemõî"
+            },
+            {
+                "f": "xepoesemõ a'e",
+                "s": "3p",
+                "o": "1ps",
+                "m": "in",
+                "n": "na xepoesemõî a'e"
+            },
+            {
+                "f": "orépoesemõ a'e",
+                "s": "3p",
+                "o": "1ppe",
+                "m": "in",
+                "n": "n'orépoesemõî a'e"
+            },
+            {
+                "f": "îandépoesemõ a'e",
+                "s": "3p",
+                "o": "1ppi",
+                "m": "in",
+                "n": "n'îandépoesemõî a'e"
+            },
+            {
+                "f": "ndepoesemõ a'e",
+                "s": "3p",
+                "o": "2ps",
+                "m": "in",
+                "n": "na ndepoesemõî a'e"
+            },
+            {
+                "f": "pepoesemõ a'e",
+                "s": "3p",
+                "o": "2pp",
+                "m": "in",
+                "n": "na pepoesemõî a'e"
+            },
+            {
+                "f": "a'e a'e oîpoesemõ",
+                "s": "3p",
+                "o": "3p",
+                "m": "in",
+                "n": "a'e a'e n'oîpoesemõî"
+            },
+            {
+                "f": "a'e oîepoesemõ",
+                "s": "3p",
+                "o": "refl",
+                "m": "in",
+                "n": "a'e n'oîepoesemõî"
+            },
+            {
+                "f": "a'e oîopoesemõ",
+                "s": "3p",
+                "o": "mut",
+                "m": "in",
+                "n": "a'e n'oîopoesemõî"
+            },
+            {
+                "f": "xepoesemõmo",
+                "s": null,
+                "o": "1ps",
+                "m": "ge",
+                "n": "xepoesemõe'yma"
+            },
+            {
+                "f": "orépoesemõmo",
+                "s": null,
+                "o": "1ppe",
+                "m": "ge",
+                "n": "orépoesemõe'yma"
+            },
+            {
+                "f": "îandépoesemõmo",
+                "s": null,
+                "o": "1ppi",
+                "m": "ge",
+                "n": "îandépoesemõe'yma"
+            },
+            {
+                "f": "ndepoesemõmo",
+                "s": null,
+                "o": "2ps",
+                "m": "ge",
+                "n": "ndepoesemõe'yma"
+            },
+            {
+                "f": "pepoesemõmo",
+                "s": null,
+                "o": "2pp",
+                "m": "ge",
+                "n": "pepoesemõe'yma"
+            },
+            {
+                "f": "ipoesemõmo",
+                "s": null,
+                "o": "3p",
+                "m": "ge",
+                "n": "ipoesemõe'yma"
+            },
+            {
+                "f": "xe îepoesemõû",
+                "s": "1ps",
+                "o": "refl",
+                "m": "ci",
+                "n": "xe îepoesemõe'ymi"
+            },
+            {
+                "f": "xe îopoesemõû",
+                "s": "1ps",
+                "o": "mut",
+                "m": "ci",
+                "n": "xe îopoesemõe'ymi"
+            },
+            {
+                "f": "xe orépoesemõû",
+                "s": "1ps",
+                "o": "1ppe",
+                "m": "ci",
+                "n": "xe orépoesemõe'ymi"
+            },
+            {
+                "f": "xe îandépoesemõû",
+                "s": "1ps",
+                "o": "1ppi",
+                "m": "ci",
+                "n": "xe îandépoesemõe'ymi"
+            },
+            {
+                "f": "xe ndepoesemõû",
+                "s": "1ps",
+                "o": "2ps",
+                "m": "ci",
+                "n": "xe ndepoesemõe'ymi"
+            },
+            {
+                "f": "xe pepoesemõû",
+                "s": "1ps",
+                "o": "2pp",
+                "m": "ci",
+                "n": "xe pepoesemõe'ymi"
+            },
+            {
+                "f": "xe ipoesemõû",
+                "s": "1ps",
+                "o": "3p",
+                "m": "ci",
+                "n": "xe ipoesemõe'ymi"
+            },
+            {
+                "f": "oré xepoesemõû",
+                "s": "1ppe",
+                "o": "1ps",
+                "m": "ci",
+                "n": "oré xepoesemõe'ymi"
+            },
+            {
+                "f": "oré îepoesemõû",
+                "s": "1ppe",
+                "o": "refl",
+                "m": "ci",
+                "n": "oré îepoesemõe'ymi"
+            },
+            {
+                "f": "oré îopoesemõû",
+                "s": "1ppe",
+                "o": "mut",
+                "m": "ci",
+                "n": "oré îopoesemõe'ymi"
+            },
+            {
+                "f": "oré ndepoesemõû",
+                "s": "1ppe",
+                "o": "2ps",
+                "m": "ci",
+                "n": "oré ndepoesemõe'ymi"
+            },
+            {
+                "f": "oré pepoesemõû",
+                "s": "1ppe",
+                "o": "2pp",
+                "m": "ci",
+                "n": "oré pepoesemõe'ymi"
+            },
+            {
+                "f": "oré ipoesemõû",
+                "s": "1ppe",
+                "o": "3p",
+                "m": "ci",
+                "n": "oré ipoesemõe'ymi"
+            },
+            {
+                "f": "îandé xepoesemõû",
+                "s": "1ppi",
+                "o": "1ps",
+                "m": "ci",
+                "n": "îandé xepoesemõe'ymi"
+            },
+            {
+                "f": "îandé îepoesemõû",
+                "s": "1ppi",
+                "o": "refl",
+                "m": "ci",
+                "n": "îandé îepoesemõe'ymi"
+            },
+            {
+                "f": "îandé îopoesemõû",
+                "s": "1ppi",
+                "o": "mut",
+                "m": "ci",
+                "n": "îandé îopoesemõe'ymi"
+            },
+            {
+                "f": "îandé ipoesemõû",
+                "s": "1ppi",
+                "o": "3p",
+                "m": "ci",
+                "n": "îandé ipoesemõe'ymi"
+            },
+            {
+                "f": "a'e xepoesemõû",
+                "s": "3p",
+                "o": "1ps",
+                "m": "ci",
+                "n": "a'e xepoesemõe'ymi"
+            },
+            {
+                "f": "a'e orépoesemõû",
+                "s": "3p",
+                "o": "1ppe",
+                "m": "ci",
+                "n": "a'e orépoesemõe'ymi"
+            },
+            {
+                "f": "a'e îandépoesemõû",
+                "s": "3p",
+                "o": "1ppi",
+                "m": "ci",
+                "n": "a'e îandépoesemõe'ymi"
+            },
+            {
+                "f": "a'e ndepoesemõû",
+                "s": "3p",
+                "o": "2ps",
+                "m": "ci",
+                "n": "a'e ndepoesemõe'ymi"
+            },
+            {
+                "f": "a'e pepoesemõû",
+                "s": "3p",
+                "o": "2pp",
+                "m": "ci",
+                "n": "a'e pepoesemõe'ymi"
+            },
+            {
+                "f": "a'e ipoesemõû",
+                "s": "3p",
+                "o": "3p",
+                "m": "ci",
+                "n": "a'e ipoesemõe'ymi"
+            },
+            {
+                "f": "a'e îepoesemõû",
+                "s": "3p",
+                "o": "refl",
+                "m": "ci",
+                "n": "a'e îepoesemõe'ymi"
+            },
+            {
+                "f": "a'e îopoesemõû",
+                "s": "3p",
+                "o": "mut",
+                "m": "ci",
+                "n": "a'e îopoesemõe'ymi"
+            },
+            {
+                "f": "xepoesemõ îepé",
+                "s": "2ps",
+                "o": "1ps",
+                "m": "im",
+                "n": "xepoesemõ umẽ îepé"
+            },
+            {
+                "f": "orépoesemõ îepé",
+                "s": "2ps",
+                "o": "1ppe",
+                "m": "im",
+                "n": "orépoesemõ umẽ îepé"
+            },
+            {
+                "f": "endé eîepoesemõ",
+                "s": "2ps",
+                "o": "2ps",
+                "m": "im",
+                "n": "endé eîepoesemõ umẽ"
+            },
+            {
+                "f": "endé a'e eîpoesemõ",
+                "s": "2ps",
+                "o": "3p",
+                "m": "im",
+                "n": "endé a'e eîpoesemõ umẽ"
+            },
+            {
+                "f": "xepoesemõ peîepé",
+                "s": "2pp",
+                "o": "1ps",
+                "m": "im",
+                "n": "xepoesemõ umẽ peîepé"
+            },
+            {
+                "f": "orépoesemõ peîepé",
+                "s": "2pp",
+                "o": "1ppe",
+                "m": "im",
+                "n": "orépoesemõ umẽ peîepé"
+            },
+            {
+                "f": "peẽ peîepoesemõ",
+                "s": "2pp",
+                "o": "2pp",
+                "m": "im",
+                "n": "peẽ peîepoesemõ umẽ"
+            },
+            {
+                "f": "peẽ a'e peîpoesemõ",
+                "s": "2pp",
+                "o": "3p",
+                "m": "im",
+                "n": "peẽ a'e peîpoesemõ umẽ"
+            },
+            {
+                "f": "ixé toropoesemõ",
+                "s": "1ps",
+                "o": "2ps",
+                "m": "pe",
+                "n": "ixé toropoesemõ umẽ"
+            },
+            {
+                "f": "ixé topopoesemõ",
+                "s": "1ps",
+                "o": "2pp",
+                "m": "pe",
+                "n": "ixé topopoesemõ umẽ"
+            },
+            {
+                "f": "ixé a'e taîpoesemõ",
+                "s": "1ps",
+                "o": "3p",
+                "m": "pe",
+                "n": "ixé a'e taîpoesemõ umẽ"
+            },
+            {
+                "f": "ixé taîepoesemõ",
+                "s": "1ps",
+                "o": "refl",
+                "m": "pe",
+                "n": "ixé taîepoesemõ umẽ"
+            },
+            {
+                "f": "oré toropoesemõ",
+                "s": "1ppe",
+                "o": "2ps",
+                "m": "pe",
+                "n": "oré toropoesemõ umẽ"
+            },
+            {
+                "f": "oré topopoesemõ",
+                "s": "1ppe",
+                "o": "2pp",
+                "m": "pe",
+                "n": "oré topopoesemõ umẽ"
+            },
+            {
+                "f": "oré a'e toroîpoesemõ",
+                "s": "1ppe",
+                "o": "3p",
+                "m": "pe",
+                "n": "oré a'e toroîpoesemõ umẽ"
+            },
+            {
+                "f": "oré toroîepoesemõ",
+                "s": "1ppe",
+                "o": "refl",
+                "m": "pe",
+                "n": "oré toroîepoesemõ umẽ"
+            },
+            {
+                "f": "oré toroîopoesemõ",
+                "s": "1ppe",
+                "o": "mut",
+                "m": "pe",
+                "n": "oré toroîopoesemõ umẽ"
+            },
+            {
+                "f": "îandé a'e tîaîpoesemõ",
+                "s": "1ppi",
+                "o": "3p",
+                "m": "pe",
+                "n": "îandé a'e tîaîpoesemõ umẽ"
+            },
+            {
+                "f": "îandé tîaîepoesemõ",
+                "s": "1ppi",
+                "o": "refl",
+                "m": "pe",
+                "n": "îandé tîaîepoesemõ umẽ"
+            },
+            {
+                "f": "îandé tîaîopoesemõ",
+                "s": "1ppi",
+                "o": "mut",
+                "m": "pe",
+                "n": "îandé tîaîopoesemõ umẽ"
+            },
+            {
+                "f": "taxepoesemõ îepé",
+                "s": "2ps",
+                "o": "1ps",
+                "m": "pe",
+                "n": "taxepoesemõ umẽ îepé"
+            },
+            {
+                "f": "torépoesemõ îepé",
+                "s": "2ps",
+                "o": "1ppe",
+                "m": "pe",
+                "n": "torépoesemõ umẽ îepé"
+            },
+            {
+                "f": "endé a'e tereîpoesemõ",
+                "s": "2ps",
+                "o": "3p",
+                "m": "pe",
+                "n": "endé a'e tereîpoesemõ umẽ"
+            },
+            {
+                "f": "endé tereîepoesemõ",
+                "s": "2ps",
+                "o": "refl",
+                "m": "pe",
+                "n": "endé tereîepoesemõ umẽ"
+            },
+            {
+                "f": "taxepoesemõ peîepé",
+                "s": "2pp",
+                "o": "1ps",
+                "m": "pe",
+                "n": "taxepoesemõ umẽ peîepé"
+            },
+            {
+                "f": "torépoesemõ peîepé",
+                "s": "2pp",
+                "o": "1ppe",
+                "m": "pe",
+                "n": "torépoesemõ umẽ peîepé"
+            },
+            {
+                "f": "peẽ a'e tapeîpoesemõ",
+                "s": "2pp",
+                "o": "3p",
+                "m": "pe",
+                "n": "peẽ a'e tapeîpoesemõ umẽ"
+            },
+            {
+                "f": "peẽ tapeîepoesemõ",
+                "s": "2pp",
+                "o": "refl",
+                "m": "pe",
+                "n": "peẽ tapeîepoesemõ umẽ"
+            },
+            {
+                "f": "peẽ tapeîopoesemõ",
+                "s": "2pp",
+                "o": "mut",
+                "m": "pe",
+                "n": "peẽ tapeîopoesemõ umẽ"
+            },
+            {
+                "f": "taxepoesemõ a'e",
+                "s": "3p",
+                "o": "1ps",
+                "m": "pe",
+                "n": "taxepoesemõ umẽ a'e"
+            },
+            {
+                "f": "torépoesemõ a'e",
+                "s": "3p",
+                "o": "1ppe",
+                "m": "pe",
+                "n": "torépoesemõ umẽ a'e"
+            },
+            {
+                "f": "tîandépoesemõ a'e",
+                "s": "3p",
+                "o": "1ppi",
+                "m": "pe",
+                "n": "tîandépoesemõ umẽ a'e"
+            },
+            {
+                "f": "tandepoesemõ a'e",
+                "s": "3p",
+                "o": "2ps",
+                "m": "pe",
+                "n": "tandepoesemõ umẽ a'e"
+            },
+            {
+                "f": "tapepoesemõ a'e",
+                "s": "3p",
+                "o": "2pp",
+                "m": "pe",
+                "n": "tapepoesemõ umẽ a'e"
+            },
+            {
+                "f": "a'e a'e toîpoesemõ",
+                "s": "3p",
+                "o": "3p",
+                "m": "pe",
+                "n": "a'e a'e toîpoesemõ umẽ"
+            },
+            {
+                "f": "a'e toîepoesemõ",
+                "s": "3p",
+                "o": "refl",
+                "m": "pe",
+                "n": "a'e toîepoesemõ umẽ"
+            },
+            {
+                "f": "a'e toîopoesemõ",
+                "s": "3p",
+                "o": "mut",
+                "m": "pe",
+                "n": "a'e toîopoesemõ umẽ"
+            }
+        ],
+        "tags": {
+            "cit": "Ereîmoîebyrype kaûĩ nde poesemõneme? - Vomitaste cauim quando te encheu? (Anch., Doutr. Cristã, II, 103)",
+            "word": "nde poesemõneme",
+            "sujs": "ybyá",
+            "sujp": "endé",
+            "trans": "quando"
+        }
+    },
+    {
+        "f": "-reme",
+        "o": "",
+        "d": "(posp.) [Possui os alomorfes -eme, -me e -neme (forma nasalizada). Expressa condição, causa e tempo.] - 1) (condicional) no caso de, se: Aîpó xe re'õnama rambûera abaíme, t'onhemonhang umẽ xe remimotara. - No caso de ser difícil frustrar-se essa minha morte, que não se faça minha vontade. (Ar., Cat., 53); Tupã i potare'ỹme, n'aîpotari. - Se Deus não o quiser, não o quero. (D'Abbeville, Histoire, 351v); Nd'îasóî xûé-tepemo ybakype se'õe'ỹmemo? - Mas não iríamos para o céu se ele não morresse? (Ar., Cat., 43v); mboîa kunhã îukáreme... - se a cobra matar a mulher... (Fig., Arte, 8); 'yreme - se houver água; emonãneme - se for assim (VLB, II, 114); 2) (causal) por causa de, por, porque: Pedro osó o mondóreme. - Pedro vai porque o mandam. (Fig., Arte, 84); Asaûsub Pedro og uba raûsume. - Amo Pedro por amar a seu pai. (Anch., Arte, 16v); Omanõ o îukáreme. - Morre porque o matam. (Fig., Arte, 84); 3) (temporal) por ocasião de, no momento de, quando; sempre que, sempre quando: Oîerokype asé Jesus 'ereme? - Inclina-se a gente sempre quando diz Jesus? (Ar., Cat., 23): Xe îekyîme, t'ereîu... - Quando eu morrer, que venhas. (Anch., Poemas, 102); I kambuneme, sory. - Quando ele mama, ela fica alegre. (Anch., Poemas, 162); ...Oito 'ara sykeme, ...i 'apira mondoki... - Quando chegou o dia oito, cortaram seu prepúcio. (Ar., Cat., 3); A'epe... 'aretéreme eresó. - Ali ias por ocasião dos feriados. (Anch., Poemas, 154)",
+        "i": 9421,
+        "tags": {
+            "cit": "Asaûsub Pedro og uba raûsume. - Amo Pedro por amar a seu pai. (Anch., Arte, 16v)",
+            "word": "Pedro og uba raûsume",
+            "sujs": "eles (outros)",
+            "sujp": "ele",
+            "trans": "porque"
+        }
+    },
+    {
+        "f": "ruã",
+        "o": "1",
+        "d": "(part. de neg. Nega partes da oração que não são o predicado. Nega, também, substantivos. É acompanhada pela partícula na (nda), que precede o termo ao qual ruã se pospõe.) - 1) não: N'asé ruba ruã-tepe asé reté oîmonhang? - Mas não foi nosso pai que fez nosso corpo? (Ar., Cat., 25); Na abaré ruã ixé. - Eu não sou padre. (Anch., Arte, 46v); Na ixé ruã asó. - Não sou eu que vou. (Anch., Arte, 47v); Na xe ruba supé ruã aîme'eng. - Não foi a meu pai que o dei. (Anch., Arte, 47v); Na ixé sóreme ruã turi. - Não porque eu fui veio ele. (Anch., Arte, 47v); Na mba'e 'u potá ruã aîur. - Não querendo comer, venho. (Anch., Arte, 47v); Xe resaraî é gûitekóbo, n'aseîá-potá ruã! - Eu estava-me, mesmo, esquecendo e não querendo omiti-lo. (Anch., Teatro, 180, 2006); 2) Após uma negativa significa não deixando de, não que: \"Mba'epe pesekar?\" e'i, na semiekara kuabe'yma ruã. - Disse: \"-Que procurais\", não que não soubesse o que eles procuravam. (Ar., Cat., 75)",
+        "i": 9458,
+        "tags": {
+            "cit": "Na ixé sóreme ruã turi. - Não porque eu fui veio ele. (Anch., Arte, 47v)",
+            "word": "ixé sóreme",
+            "sujs": "ixé",
+            "sujp": "a'e",
+            "trans": "porque"
+        }
+    },
+    {
+        "f": "sok",
+        "o": "1",
+        "d": "(-îo-) (v.tr.) - 1) ferir (com coisa que não entra pela carne ou entra quase nada); dar pancadas de ponta (sem furar) (VLB, II, 63); picar, aguilhoar (p.ex., bois), calcar (sem furar): Aîosok. - Feri-o. (VLB, I, 137); Xe sok îõte. - Deu-me pancada de ponta, somente (isto é, sem me furar). (VLB, I, 129); Pedro nde sok. - Pedro te pica. (Fig., Arte, 151); Pedro osok îagûara. - Pedro aguilhoa a onça. (Fig., Arte, 153); 2) moer, pisando (VLB, II, 40); 3) socar, pilar; (fig.) fustigar: 'Ara yby sokeme, xe ruri. - Quando fustigava o sol a terra, eu vim. (VLB, I, 112); Aporosok. - Soco gente. (Fig., Arte, 89); abati soka - pilar milho (Fig., Arte, 73) ● i xokypyra - o que é (ou deve ser) pilado, socado (Fig., Arte, 108); o que é moído, coisa moída (VLB, II, 40)",
+        "i": 9651,
+        "c": [
+            {
+                "f": "ixé orosok",
+                "s": "1ps",
+                "o": "2ps",
+                "m": "in",
+                "n": "ixé n'orosoki"
+            },
+            {
+                "f": "ixé oposok",
+                "s": "1ps",
+                "o": "2pp",
+                "m": "in",
+                "n": "ixé n'oposoki"
+            },
+            {
+                "f": "ixé a'e aîosok",
+                "s": "1ps",
+                "o": "3p",
+                "m": "in",
+                "n": "ixé a'e n'aîosoki"
+            },
+            {
+                "f": "ixé aîesok",
+                "s": "1ps",
+                "o": "refl",
+                "m": "in",
+                "n": "ixé n'aîesoki"
+            },
+            {
+                "f": "oré orosok",
+                "s": "1ppe",
+                "o": "2ps",
+                "m": "in",
+                "n": "oré n'orosoki"
+            },
+            {
+                "f": "oré oposok",
+                "s": "1ppe",
+                "o": "2pp",
+                "m": "in",
+                "n": "oré n'oposoki"
+            },
+            {
+                "f": "oré a'e oroîosok",
+                "s": "1ppe",
+                "o": "3p",
+                "m": "in",
+                "n": "oré a'e n'oroîosoki"
+            },
+            {
+                "f": "oré oroîesok",
+                "s": "1ppe",
+                "o": "refl",
+                "m": "in",
+                "n": "oré n'oroîesoki"
+            },
+            {
+                "f": "oré oroîosok",
+                "s": "1ppe",
+                "o": "mut",
+                "m": "in",
+                "n": "oré n'oroîosoki"
+            },
+            {
+                "f": "îandé a'e îaîosok",
+                "s": "1ppi",
+                "o": "3p",
+                "m": "in",
+                "n": "îandé a'e n'îaîosoki"
+            },
+            {
+                "f": "îandé îaîesok",
+                "s": "1ppi",
+                "o": "refl",
+                "m": "in",
+                "n": "îandé n'îaîesoki"
+            },
+            {
+                "f": "îandé îaîosok",
+                "s": "1ppi",
+                "o": "mut",
+                "m": "in",
+                "n": "îandé n'îaîosoki"
+            },
+            {
+                "f": "xesok îepé",
+                "s": "2ps",
+                "o": "1ps",
+                "m": "in",
+                "n": "na xesoki îepé"
+            },
+            {
+                "f": "orésok îepé",
+                "s": "2ps",
+                "o": "1ppe",
+                "m": "in",
+                "n": "n'orésoki îepé"
+            },
+            {
+                "f": "endé a'e ereîosok",
+                "s": "2ps",
+                "o": "3p",
+                "m": "in",
+                "n": "endé a'e n'ereîosoki"
+            },
+            {
+                "f": "endé ereîesok",
+                "s": "2ps",
+                "o": "refl",
+                "m": "in",
+                "n": "endé n'ereîesoki"
+            },
+            {
+                "f": "xesok peîepé",
+                "s": "2pp",
+                "o": "1ps",
+                "m": "in",
+                "n": "na xesoki peîepé"
+            },
+            {
+                "f": "orésok peîepé",
+                "s": "2pp",
+                "o": "1ppe",
+                "m": "in",
+                "n": "n'orésoki peîepé"
+            },
+            {
+                "f": "peẽ a'e peîosok",
+                "s": "2pp",
+                "o": "3p",
+                "m": "in",
+                "n": "peẽ a'e na peîosoki"
+            },
+            {
+                "f": "peẽ peîesok",
+                "s": "2pp",
+                "o": "refl",
+                "m": "in",
+                "n": "peẽ na peîesoki"
+            },
+            {
+                "f": "peẽ peîosok",
+                "s": "2pp",
+                "o": "mut",
+                "m": "in",
+                "n": "peẽ na peîosoki"
+            },
+            {
+                "f": "xesok a'e",
+                "s": "3p",
+                "o": "1ps",
+                "m": "in",
+                "n": "na xesoki a'e"
+            },
+            {
+                "f": "orésok a'e",
+                "s": "3p",
+                "o": "1ppe",
+                "m": "in",
+                "n": "n'orésoki a'e"
+            },
+            {
+                "f": "îandésok a'e",
+                "s": "3p",
+                "o": "1ppi",
+                "m": "in",
+                "n": "n'îandésoki a'e"
+            },
+            {
+                "f": "ndesok a'e",
+                "s": "3p",
+                "o": "2ps",
+                "m": "in",
+                "n": "na ndesoki a'e"
+            },
+            {
+                "f": "pesok a'e",
+                "s": "3p",
+                "o": "2pp",
+                "m": "in",
+                "n": "na pesoki a'e"
+            },
+            {
+                "f": "a'e a'e oîosok",
+                "s": "3p",
+                "o": "3p",
+                "m": "in",
+                "n": "a'e a'e n'oîosoki"
+            },
+            {
+                "f": "a'e oîesok",
+                "s": "3p",
+                "o": "refl",
+                "m": "in",
+                "n": "a'e n'oîesoki"
+            },
+            {
+                "f": "a'e oîosok",
+                "s": "3p",
+                "o": "mut",
+                "m": "in",
+                "n": "a'e n'oîosoki"
+            },
+            {
+                "f": "xesoka",
+                "s": null,
+                "o": "1ps",
+                "m": "ge",
+                "n": "xesoke'yma"
+            },
+            {
+                "f": "orésoka",
+                "s": null,
+                "o": "1ppe",
+                "m": "ge",
+                "n": "orésoke'yma"
+            },
+            {
+                "f": "îandésoka",
+                "s": null,
+                "o": "1ppi",
+                "m": "ge",
+                "n": "îandésoke'yma"
+            },
+            {
+                "f": "ndesoka",
+                "s": null,
+                "o": "2ps",
+                "m": "ge",
+                "n": "ndesoke'yma"
+            },
+            {
+                "f": "pesoka",
+                "s": null,
+                "o": "2pp",
+                "m": "ge",
+                "n": "pesoke'yma"
+            },
+            {
+                "f": "îosoka",
+                "s": null,
+                "o": "3p",
+                "m": "ge",
+                "n": "îosoke'yma"
+            },
+            {
+                "f": "xe îesoki",
+                "s": "1ps",
+                "o": "refl",
+                "m": "ci",
+                "n": "xe îesoke'ymi"
+            },
+            {
+                "f": "xe îosoki",
+                "s": "1ps",
+                "o": "mut",
+                "m": "ci",
+                "n": "xe îosoke'ymi"
+            },
+            {
+                "f": "xe orésoki",
+                "s": "1ps",
+                "o": "1ppe",
+                "m": "ci",
+                "n": "xe orésoke'ymi"
+            },
+            {
+                "f": "xe îandésoki",
+                "s": "1ps",
+                "o": "1ppi",
+                "m": "ci",
+                "n": "xe îandésoke'ymi"
+            },
+            {
+                "f": "xe ndesoki",
+                "s": "1ps",
+                "o": "2ps",
+                "m": "ci",
+                "n": "xe ndesoke'ymi"
+            },
+            {
+                "f": "xe pesoki",
+                "s": "1ps",
+                "o": "2pp",
+                "m": "ci",
+                "n": "xe pesoke'ymi"
+            },
+            {
+                "f": "xe isoki",
+                "s": "1ps",
+                "o": "3p",
+                "m": "ci",
+                "n": "xe isoke'ymi"
+            },
+            {
+                "f": "oré xesoki",
+                "s": "1ppe",
+                "o": "1ps",
+                "m": "ci",
+                "n": "oré xesoke'ymi"
+            },
+            {
+                "f": "oré îesoki",
+                "s": "1ppe",
+                "o": "refl",
+                "m": "ci",
+                "n": "oré îesoke'ymi"
+            },
+            {
+                "f": "oré îosoki",
+                "s": "1ppe",
+                "o": "mut",
+                "m": "ci",
+                "n": "oré îosoke'ymi"
+            },
+            {
+                "f": "oré ndesoki",
+                "s": "1ppe",
+                "o": "2ps",
+                "m": "ci",
+                "n": "oré ndesoke'ymi"
+            },
+            {
+                "f": "oré pesoki",
+                "s": "1ppe",
+                "o": "2pp",
+                "m": "ci",
+                "n": "oré pesoke'ymi"
+            },
+            {
+                "f": "oré isoki",
+                "s": "1ppe",
+                "o": "3p",
+                "m": "ci",
+                "n": "oré isoke'ymi"
+            },
+            {
+                "f": "îandé xesoki",
+                "s": "1ppi",
+                "o": "1ps",
+                "m": "ci",
+                "n": "îandé xesoke'ymi"
+            },
+            {
+                "f": "îandé îesoki",
+                "s": "1ppi",
+                "o": "refl",
+                "m": "ci",
+                "n": "îandé îesoke'ymi"
+            },
+            {
+                "f": "îandé îosoki",
+                "s": "1ppi",
+                "o": "mut",
+                "m": "ci",
+                "n": "îandé îosoke'ymi"
+            },
+            {
+                "f": "îandé isoki",
+                "s": "1ppi",
+                "o": "3p",
+                "m": "ci",
+                "n": "îandé isoke'ymi"
+            },
+            {
+                "f": "a'e xesoki",
+                "s": "3p",
+                "o": "1ps",
+                "m": "ci",
+                "n": "a'e xesoke'ymi"
+            },
+            {
+                "f": "a'e orésoki",
+                "s": "3p",
+                "o": "1ppe",
+                "m": "ci",
+                "n": "a'e orésoke'ymi"
+            },
+            {
+                "f": "a'e îandésoki",
+                "s": "3p",
+                "o": "1ppi",
+                "m": "ci",
+                "n": "a'e îandésoke'ymi"
+            },
+            {
+                "f": "a'e ndesoki",
+                "s": "3p",
+                "o": "2ps",
+                "m": "ci",
+                "n": "a'e ndesoke'ymi"
+            },
+            {
+                "f": "a'e pesoki",
+                "s": "3p",
+                "o": "2pp",
+                "m": "ci",
+                "n": "a'e pesoke'ymi"
+            },
+            {
+                "f": "a'e isoki",
+                "s": "3p",
+                "o": "3p",
+                "m": "ci",
+                "n": "a'e isoke'ymi"
+            },
+            {
+                "f": "a'e îesoki",
+                "s": "3p",
+                "o": "refl",
+                "m": "ci",
+                "n": "a'e îesoke'ymi"
+            },
+            {
+                "f": "a'e îosoki",
+                "s": "3p",
+                "o": "mut",
+                "m": "ci",
+                "n": "a'e îosoke'ymi"
+            },
+            {
+                "f": "xesok îepé",
+                "s": "2ps",
+                "o": "1ps",
+                "m": "im",
+                "n": "xesok umẽ îepé"
+            },
+            {
+                "f": "orésok îepé",
+                "s": "2ps",
+                "o": "1ppe",
+                "m": "im",
+                "n": "orésok umẽ îepé"
+            },
+            {
+                "f": "endé eîesok",
+                "s": "2ps",
+                "o": "2ps",
+                "m": "im",
+                "n": "endé eîesok umẽ"
+            },
+            {
+                "f": "endé a'e eîosok",
+                "s": "2ps",
+                "o": "3p",
+                "m": "im",
+                "n": "endé a'e eîosok umẽ"
+            },
+            {
+                "f": "xesok peîepé",
+                "s": "2pp",
+                "o": "1ps",
+                "m": "im",
+                "n": "xesok umẽ peîepé"
+            },
+            {
+                "f": "orésok peîepé",
+                "s": "2pp",
+                "o": "1ppe",
+                "m": "im",
+                "n": "orésok umẽ peîepé"
+            },
+            {
+                "f": "peẽ peîesok",
+                "s": "2pp",
+                "o": "2pp",
+                "m": "im",
+                "n": "peẽ peîesok umẽ"
+            },
+            {
+                "f": "peẽ a'e peîosok",
+                "s": "2pp",
+                "o": "3p",
+                "m": "im",
+                "n": "peẽ a'e peîosok umẽ"
+            },
+            {
+                "f": "ixé torosok",
+                "s": "1ps",
+                "o": "2ps",
+                "m": "pe",
+                "n": "ixé torosok umẽ"
+            },
+            {
+                "f": "ixé toposok",
+                "s": "1ps",
+                "o": "2pp",
+                "m": "pe",
+                "n": "ixé toposok umẽ"
+            },
+            {
+                "f": "ixé a'e taîosok",
+                "s": "1ps",
+                "o": "3p",
+                "m": "pe",
+                "n": "ixé a'e taîosok umẽ"
+            },
+            {
+                "f": "ixé taîesok",
+                "s": "1ps",
+                "o": "refl",
+                "m": "pe",
+                "n": "ixé taîesok umẽ"
+            },
+            {
+                "f": "oré torosok",
+                "s": "1ppe",
+                "o": "2ps",
+                "m": "pe",
+                "n": "oré torosok umẽ"
+            },
+            {
+                "f": "oré toposok",
+                "s": "1ppe",
+                "o": "2pp",
+                "m": "pe",
+                "n": "oré toposok umẽ"
+            },
+            {
+                "f": "oré a'e toroîosok",
+                "s": "1ppe",
+                "o": "3p",
+                "m": "pe",
+                "n": "oré a'e toroîosok umẽ"
+            },
+            {
+                "f": "oré toroîesok",
+                "s": "1ppe",
+                "o": "refl",
+                "m": "pe",
+                "n": "oré toroîesok umẽ"
+            },
+            {
+                "f": "oré toroîosok",
+                "s": "1ppe",
+                "o": "mut",
+                "m": "pe",
+                "n": "oré toroîosok umẽ"
+            },
+            {
+                "f": "îandé a'e tîaîosok",
+                "s": "1ppi",
+                "o": "3p",
+                "m": "pe",
+                "n": "îandé a'e tîaîosok umẽ"
+            },
+            {
+                "f": "îandé tîaîesok",
+                "s": "1ppi",
+                "o": "refl",
+                "m": "pe",
+                "n": "îandé tîaîesok umẽ"
+            },
+            {
+                "f": "îandé tîaîosok",
+                "s": "1ppi",
+                "o": "mut",
+                "m": "pe",
+                "n": "îandé tîaîosok umẽ"
+            },
+            {
+                "f": "taxesok îepé",
+                "s": "2ps",
+                "o": "1ps",
+                "m": "pe",
+                "n": "taxesok umẽ îepé"
+            },
+            {
+                "f": "torésok îepé",
+                "s": "2ps",
+                "o": "1ppe",
+                "m": "pe",
+                "n": "torésok umẽ îepé"
+            },
+            {
+                "f": "endé a'e tereîosok",
+                "s": "2ps",
+                "o": "3p",
+                "m": "pe",
+                "n": "endé a'e tereîosok umẽ"
+            },
+            {
+                "f": "endé tereîesok",
+                "s": "2ps",
+                "o": "refl",
+                "m": "pe",
+                "n": "endé tereîesok umẽ"
+            },
+            {
+                "f": "taxesok peîepé",
+                "s": "2pp",
+                "o": "1ps",
+                "m": "pe",
+                "n": "taxesok umẽ peîepé"
+            },
+            {
+                "f": "torésok peîepé",
+                "s": "2pp",
+                "o": "1ppe",
+                "m": "pe",
+                "n": "torésok umẽ peîepé"
+            },
+            {
+                "f": "peẽ a'e tapeîosok",
+                "s": "2pp",
+                "o": "3p",
+                "m": "pe",
+                "n": "peẽ a'e tapeîosok umẽ"
+            },
+            {
+                "f": "peẽ tapeîesok",
+                "s": "2pp",
+                "o": "refl",
+                "m": "pe",
+                "n": "peẽ tapeîesok umẽ"
+            },
+            {
+                "f": "peẽ tapeîosok",
+                "s": "2pp",
+                "o": "mut",
+                "m": "pe",
+                "n": "peẽ tapeîosok umẽ"
+            },
+            {
+                "f": "taxesok a'e",
+                "s": "3p",
+                "o": "1ps",
+                "m": "pe",
+                "n": "taxesok umẽ a'e"
+            },
+            {
+                "f": "torésok a'e",
+                "s": "3p",
+                "o": "1ppe",
+                "m": "pe",
+                "n": "torésok umẽ a'e"
+            },
+            {
+                "f": "tîandésok a'e",
+                "s": "3p",
+                "o": "1ppi",
+                "m": "pe",
+                "n": "tîandésok umẽ a'e"
+            },
+            {
+                "f": "tandesok a'e",
+                "s": "3p",
+                "o": "2ps",
+                "m": "pe",
+                "n": "tandesok umẽ a'e"
+            },
+            {
+                "f": "tapesok a'e",
+                "s": "3p",
+                "o": "2pp",
+                "m": "pe",
+                "n": "tapesok umẽ a'e"
+            },
+            {
+                "f": "a'e a'e toîosok",
+                "s": "3p",
+                "o": "3p",
+                "m": "pe",
+                "n": "a'e a'e toîosok umẽ"
+            },
+            {
+                "f": "a'e toîesok",
+                "s": "3p",
+                "o": "refl",
+                "m": "pe",
+                "n": "a'e toîesok umẽ"
+            },
+            {
+                "f": "a'e toîosok",
+                "s": "3p",
+                "o": "mut",
+                "m": "pe",
+                "n": "a'e toîosok umẽ"
+            }
+        ],
+        "tags": {
+            "cit": "'Ara yby sokeme, xe ruri. - Quando fustigava o sol a terra, eu vim. (VLB, I, 112)",
+            "word": "'Ara yby sokeme",
+            "sujs": "'Ara",
+            "sujp": "ixé",
+            "trans": "Quando"
+        }
+    },
+    {
+        "f": "syk",
+        "o": "1",
+        "d": "(v. intr. compl. posp.) - 1) chegar [a certo tempo: compl. com esé (r, s); a certo lugar: compl. com -pe; a certa pessoa: compl. com esé (r, s) ou ri]: Mokõî oîoirundyk oito 'ara sykeme... i 'apira mondoki. - Ao chegar o oitavo dia, cortaram seu prepúcio. (Ar., Cat., 3); Osyk oré ri sendy îepinhẽ. - Chegou a nós sua luz para sempre. (Anch., Poemas, 124); ...Kunumĩgûasu... catorze ro'y resé i xyke'yma, nd'e'ikatuî abá resé omendá. - Um rapaz, não chegando aos catorze anos, não pode casar-se com ninguém. (Ar., Cat., 277, 1686); T'osyk esapy'a o îukaagûãme. - Que chegue logo ao lugar de o matarem. (Ar., Cat., 88, 1686); Orosy-syk. - Chegamos sucessivamente. (VLB, I, 72); 2) achegar-se, aproximar-se [de alguém: compl. com esé (r, s) ou ri]: Nde resé te'õ n'osyki... - De ti a morte não se aproximou. (Anch., Poemas, 148); N'aîpotari pe ri i xyka. - Não quero que ele se achegue a vós. (Anch., Teatro, 188, 2006); 3) tocar (como o barco no fundo) (VLB, II, 130); 4) equiparar-se, atingir, chegar (isto é, quantidade, número, como em \"os visitantes chegam a mil\") (VLB, I, 134) [compl. com esé (r, s) ou upi (r, s)]: ...'Y berame'ĩ ikó îandé ratá rasy; n'osyki Anhanga ratá rasy resé. - Eis que a dor de nosso fogo parece a da água; não se equipara à dor do fogo do diabo. (Ar., Cat., 163v); -Mbobype a'e asé rekomonhangaba? -Mokõî asé pó papasaba rupi i xyki. -Quantos são os mandamentos d'Ele à gente? -Eles equiparam-se aos números das duas mãos da gente. (Ar., Cat., 95, 1686)",
+        "i": 9770,
+        "c": [
+            {
+                "f": "oré orosyk",
+                "s": "1ppe",
+                "o": null,
+                "m": "in",
+                "n": "oré n'orosyki"
+            },
+            {
+                "f": "îandé îasyk",
+                "s": "1ppi",
+                "o": null,
+                "m": "in",
+                "n": "îandé n'îasyki"
+            },
+            {
+                "f": "ixé asyk",
+                "s": "1ps",
+                "o": null,
+                "m": "in",
+                "n": "ixé n'asyki"
+            },
+            {
+                "f": "peẽ pesyk",
+                "s": "2pp",
+                "o": null,
+                "m": "in",
+                "n": "peẽ na pesyki"
+            },
+            {
+                "f": "endé eresyk",
+                "s": "2ps",
+                "o": null,
+                "m": "in",
+                "n": "endé n'eresyki"
+            },
+            {
+                "f": "a'e osyk",
+                "s": "3p",
+                "o": null,
+                "m": "in",
+                "n": "a'e n'osyki"
+            },
+            {
+                "f": "orosyka",
+                "s": "1ppe",
+                "o": null,
+                "m": "ge",
+                "n": "orosyke'yma"
+            },
+            {
+                "f": "îasyka",
+                "s": "1ppi",
+                "o": null,
+                "m": "ge",
+                "n": "îasyke'yma"
+            },
+            {
+                "f": "gûisyka",
+                "s": "1ps",
+                "o": null,
+                "m": "ge",
+                "n": "gûisyke'yma"
+            },
+            {
+                "f": "pesyka",
+                "s": "2pp",
+                "o": null,
+                "m": "ge",
+                "n": "pesyke'yma"
+            },
+            {
+                "f": "esyka",
+                "s": "2ps",
+                "o": null,
+                "m": "ge",
+                "n": "esyke'yma"
+            },
+            {
+                "f": "osyka",
+                "s": "3p",
+                "o": null,
+                "m": "ge",
+                "n": "osyke'yma"
+            },
+            {
+                "f": "oré syki",
+                "s": "1ppe",
+                "o": null,
+                "m": "ci",
+                "n": "oré syke'ymi"
+            },
+            {
+                "f": "îandé syki",
+                "s": "1ppi",
+                "o": null,
+                "m": "ci",
+                "n": "îandé syke'ymi"
+            },
+            {
+                "f": "xe syki",
+                "s": "1ps",
+                "o": null,
+                "m": "ci",
+                "n": "xe syke'ymi"
+            },
+            {
+                "f": "i syki",
+                "s": "3p",
+                "o": null,
+                "m": "ci",
+                "n": "i syke'ymi"
+            },
+            {
+                "f": "peẽ pesyk",
+                "s": "2pp",
+                "o": null,
+                "m": "im",
+                "n": "peẽ pesyk umẽ"
+            },
+            {
+                "f": "endé esyk",
+                "s": "2ps",
+                "o": null,
+                "m": "im",
+                "n": "endé esyk umẽ"
+            },
+            {
+                "f": "oré torosyk",
+                "s": "1ppe",
+                "o": null,
+                "m": "pe",
+                "n": "oré torosyk umẽ"
+            },
+            {
+                "f": "îandé tîasyk",
+                "s": "1ppi",
+                "o": null,
+                "m": "pe",
+                "n": "îandé tîasyk umẽ"
+            },
+            {
+                "f": "ixé tasyk",
+                "s": "1ps",
+                "o": null,
+                "m": "pe",
+                "n": "ixé tasyk umẽ"
+            },
+            {
+                "f": "peẽ tapesyk",
+                "s": "2pp",
+                "o": null,
+                "m": "pe",
+                "n": "peẽ tapesyk umẽ"
+            },
+            {
+                "f": "endé teresyk",
+                "s": "2ps",
+                "o": null,
+                "m": "pe",
+                "n": "endé teresyk umẽ"
+            },
+            {
+                "f": "a'e tosyk",
+                "s": "3p",
+                "o": null,
+                "m": "pe",
+                "n": "a'e tosyk umẽ"
+            }
+        ],
+        "tags": {
+            "cit": "Mokõî oîoirundyk oito 'ara sykeme... i 'apira mondoki. - Ao chegar o oitavo dia, cortaram seu prepúcio. (Ar., Cat., 3)",
+            "word": "Mokõî oîoirundyk oito 'ara sykeme",
+            "sujs": "Mokõî oîoirundyk oito 'ara",
+            "sujp": "a'e",
+            "trans": "ao"
+        }
+    },
+    {
+        "f": "syk",
+        "o": "3",
+        "d": "(v. intr.) - 1) acabar - ...Ikó îope'asagûera syk'iré esepîá-ukar orébe... - Após acabar este desterro comum, faze-nos vê-lo. (Ar., Cat., 14v); A'epe ikó 'ara pupé sepy syke'ỹme? - E no caso de não acabar sua dívida neste mundo? (Anch., Dial. Fé, 229); 2) completar-se: ...O membyra Maria rerasóû... mosapyr ro'y sykeme. - Levou sua filha Maria quando se completaram três anos. (Ar., Cat., 8v); 3) transcorrer ● sykaba - tempo, lugar, modo, etc. de acabar, de completar-se, de transcorrer: ...Oîoirundyk îeapyká sykápe. - No transcorrer de quatro gerações. (Ar., Cat., 129)",
+        "i": 9774,
+        "c": [
+            {
+                "f": "oré orosyk",
+                "s": "1ppe",
+                "o": null,
+                "m": "in",
+                "n": "oré n'orosyki"
+            },
+            {
+                "f": "îandé îasyk",
+                "s": "1ppi",
+                "o": null,
+                "m": "in",
+                "n": "îandé n'îasyki"
+            },
+            {
+                "f": "ixé asyk",
+                "s": "1ps",
+                "o": null,
+                "m": "in",
+                "n": "ixé n'asyki"
+            },
+            {
+                "f": "peẽ pesyk",
+                "s": "2pp",
+                "o": null,
+                "m": "in",
+                "n": "peẽ na pesyki"
+            },
+            {
+                "f": "endé eresyk",
+                "s": "2ps",
+                "o": null,
+                "m": "in",
+                "n": "endé n'eresyki"
+            },
+            {
+                "f": "a'e osyk",
+                "s": "3p",
+                "o": null,
+                "m": "in",
+                "n": "a'e n'osyki"
+            },
+            {
+                "f": "orosyka",
+                "s": "1ppe",
+                "o": null,
+                "m": "ge",
+                "n": "orosyke'yma"
+            },
+            {
+                "f": "îasyka",
+                "s": "1ppi",
+                "o": null,
+                "m": "ge",
+                "n": "îasyke'yma"
+            },
+            {
+                "f": "gûisyka",
+                "s": "1ps",
+                "o": null,
+                "m": "ge",
+                "n": "gûisyke'yma"
+            },
+            {
+                "f": "pesyka",
+                "s": "2pp",
+                "o": null,
+                "m": "ge",
+                "n": "pesyke'yma"
+            },
+            {
+                "f": "esyka",
+                "s": "2ps",
+                "o": null,
+                "m": "ge",
+                "n": "esyke'yma"
+            },
+            {
+                "f": "osyka",
+                "s": "3p",
+                "o": null,
+                "m": "ge",
+                "n": "osyke'yma"
+            },
+            {
+                "f": "oré syki",
+                "s": "1ppe",
+                "o": null,
+                "m": "ci",
+                "n": "oré syke'ymi"
+            },
+            {
+                "f": "îandé syki",
+                "s": "1ppi",
+                "o": null,
+                "m": "ci",
+                "n": "îandé syke'ymi"
+            },
+            {
+                "f": "xe syki",
+                "s": "1ps",
+                "o": null,
+                "m": "ci",
+                "n": "xe syke'ymi"
+            },
+            {
+                "f": "i syki",
+                "s": "3p",
+                "o": null,
+                "m": "ci",
+                "n": "i syke'ymi"
+            },
+            {
+                "f": "peẽ pesyk",
+                "s": "2pp",
+                "o": null,
+                "m": "im",
+                "n": "peẽ pesyk umẽ"
+            },
+            {
+                "f": "endé esyk",
+                "s": "2ps",
+                "o": null,
+                "m": "im",
+                "n": "endé esyk umẽ"
+            },
+            {
+                "f": "oré torosyk",
+                "s": "1ppe",
+                "o": null,
+                "m": "pe",
+                "n": "oré torosyk umẽ"
+            },
+            {
+                "f": "îandé tîasyk",
+                "s": "1ppi",
+                "o": null,
+                "m": "pe",
+                "n": "îandé tîasyk umẽ"
+            },
+            {
+                "f": "ixé tasyk",
+                "s": "1ps",
+                "o": null,
+                "m": "pe",
+                "n": "ixé tasyk umẽ"
+            },
+            {
+                "f": "peẽ tapesyk",
+                "s": "2pp",
+                "o": null,
+                "m": "pe",
+                "n": "peẽ tapesyk umẽ"
+            },
+            {
+                "f": "endé teresyk",
+                "s": "2ps",
+                "o": null,
+                "m": "pe",
+                "n": "endé teresyk umẽ"
+            },
+            {
+                "f": "a'e tosyk",
+                "s": "3p",
+                "o": null,
+                "m": "pe",
+                "n": "a'e tosyk umẽ"
+            }
+        ],
+        "tags": {
+            "cit": "kó 'ara nungara pupé S. Ioaquin semirekó S. Anna o membyra Maria rerasóû Tupã okype, mosapyr ro'y sykeme... (Ar., Cat., 8v)",
+            "word": "mosapyr ro'y sykeme",
+            "sujs": "mosapyr ro'y",
+            "sujp": "S. Ioaquin semirekó S. Anna",
+            "trans": "quando"
+        }
+    },
+    {
+        "f": "syk",
+        "o": "4",
+        "d": "(adv.) - no total, na totalidade, totalmente: I angaturam sykype erimba'e Tupã o monhang-ypyreme? - Eram bons na totalidade quando Deus começou a criá-los? (Anch., Doutr. Cristã, I, 160); mokõ-mokõî syk - dois e dois no total (isto é, quatro) (VLB, I, 154)",
+        "i": 9775,
+        "tags": {
+            "cit": "I angaturam sykype erimba'e Tupã o monhang-ypyreme? - Eram bons na totalidade quando Deus começou a criá-los? (Anch., Doutr. Cristã, I, 160)",
+            "word": "Tupã o monhang-ypyreme",
+            "sujs": "Tupã",
+            "sujp": "a'e",
+            "trans": "quando"
+        }
+    },
+    {
+        "f": "sykyîé",
+        "o": "2",
+        "d": "(v. intr. compl. posp.) - temer, ter medo [de algo ou de alguém: compl. com a posp. suí ou com o gerúndio]: Anhanga nde moabaîté, nde suí osykyîébo. - O diabo te agasta, de ti tendo medo. (Anch., Poemas, 144); \"Jesu\" 'éreme, moxy sykyîéû... - Ao dizer \"Jesus\", o maldito tem medo. (Anch., Poemas, 186); ...Îudeus suí osykyîébo... - Tendo medo dos judeus. (Ar., Cat., 55); ...T'osykyîé umẽ Îesu Cristo... mombegûabo. - Que não tenha medo de anunciar a Jesus Cristo. (Ar., Cat., 81) ● sykyîaba (ou sykyîéba) - tempo, lugar, modo, causa de se ter medo, de temer; temor: Tupã anhõ... Anhanga sykyîabamo t'oîkó. - Deus somente seja a causa de temor ao diabo. (Ar., Cat., 141v); Morapitîara ixé, angaîpaba sykyîéba... - Eu sou um assassino, causa de se ter medo dos pecados. (Anch., Teatro, 90); sykyîebora - medroso (VLB, II, 35)",
+        "i": 9780,
+        "c": [
+            {
+                "f": "oré orosykyîé",
+                "s": "1ppe",
+                "o": null,
+                "m": "in",
+                "n": "oré n'orosykyîéî"
+            },
+            {
+                "f": "îandé îasykyîé",
+                "s": "1ppi",
+                "o": null,
+                "m": "in",
+                "n": "îandé n'îasykyîéî"
+            },
+            {
+                "f": "ixé asykyîé",
+                "s": "1ps",
+                "o": null,
+                "m": "in",
+                "n": "ixé n'asykyîéî"
+            },
+            {
+                "f": "peẽ pesykyîé",
+                "s": "2pp",
+                "o": null,
+                "m": "in",
+                "n": "peẽ na pesykyîéî"
+            },
+            {
+                "f": "endé eresykyîé",
+                "s": "2ps",
+                "o": null,
+                "m": "in",
+                "n": "endé n'eresykyîéî"
+            },
+            {
+                "f": "a'e osykyîé",
+                "s": "3p",
+                "o": null,
+                "m": "in",
+                "n": "a'e n'osykyîéî"
+            },
+            {
+                "f": "orosykyîébo",
+                "s": "1ppe",
+                "o": null,
+                "m": "ge",
+                "n": "orosykyîée'yma"
+            },
+            {
+                "f": "îasykyîébo",
+                "s": "1ppi",
+                "o": null,
+                "m": "ge",
+                "n": "îasykyîée'yma"
+            },
+            {
+                "f": "gûisykyîébo",
+                "s": "1ps",
+                "o": null,
+                "m": "ge",
+                "n": "gûisykyîée'yma"
+            },
+            {
+                "f": "pesykyîébo",
+                "s": "2pp",
+                "o": null,
+                "m": "ge",
+                "n": "pesykyîée'yma"
+            },
+            {
+                "f": "esykyîébo",
+                "s": "2ps",
+                "o": null,
+                "m": "ge",
+                "n": "esykyîée'yma"
+            },
+            {
+                "f": "osykyîébo",
+                "s": "3p",
+                "o": null,
+                "m": "ge",
+                "n": "osykyîée'yma"
+            },
+            {
+                "f": "oré sykyîéû",
+                "s": "1ppe",
+                "o": null,
+                "m": "ci",
+                "n": "oré sykyîée'ymi"
+            },
+            {
+                "f": "îandé sykyîéû",
+                "s": "1ppi",
+                "o": null,
+                "m": "ci",
+                "n": "îandé sykyîée'ymi"
+            },
+            {
+                "f": "xe sykyîéû",
+                "s": "1ps",
+                "o": null,
+                "m": "ci",
+                "n": "xe sykyîée'ymi"
+            },
+            {
+                "f": "i sykyîéû",
+                "s": "3p",
+                "o": null,
+                "m": "ci",
+                "n": "i sykyîée'ymi"
+            },
+            {
+                "f": "peẽ pesykyîé",
+                "s": "2pp",
+                "o": null,
+                "m": "im",
+                "n": "peẽ pesykyîé umẽ"
+            },
+            {
+                "f": "endé esykyîé",
+                "s": "2ps",
+                "o": null,
+                "m": "im",
+                "n": "endé esykyîé umẽ"
+            },
+            {
+                "f": "oré torosykyîé",
+                "s": "1ppe",
+                "o": null,
+                "m": "pe",
+                "n": "oré torosykyîé umẽ"
+            },
+            {
+                "f": "îandé tîasykyîé",
+                "s": "1ppi",
+                "o": null,
+                "m": "pe",
+                "n": "îandé tîasykyîé umẽ"
+            },
+            {
+                "f": "ixé tasykyîé",
+                "s": "1ps",
+                "o": null,
+                "m": "pe",
+                "n": "ixé tasykyîé umẽ"
+            },
+            {
+                "f": "peẽ tapesykyîé",
+                "s": "2pp",
+                "o": null,
+                "m": "pe",
+                "n": "peẽ tapesykyîé umẽ"
+            },
+            {
+                "f": "endé teresykyîé",
+                "s": "2ps",
+                "o": null,
+                "m": "pe",
+                "n": "endé teresykyîé umẽ"
+            },
+            {
+                "f": "a'e tosykyîé",
+                "s": "3p",
+                "o": null,
+                "m": "pe",
+                "n": "a'e tosykyîé umẽ"
+            }
+        ],
+        "tags": {
+            "cit": "\"Jesu\" 'éreme, moxy sykyîéû... - Ao dizer \"Jesus\", o maldito tem medo. (Anch., Poemas, 186)",
+            "word": "\"Jesu\" 'éreme",
+            "sujs": "ybyá",
+            "sujp": "moxy",
+            "trans": "ao"
+        }
+    },
+    {
+        "f": "tinga",
+        "o": "1",
+        "d": "(s.) - 1) brancura: Akó aoba i putukapyra sosé o 'anga tinga. - Mais que a roupa batida é a brancura de sua alma. (Ar., Cat., 188, 1686); 2) coisa branca: Mba'e-tepe kûé tinga asé remiepîaka abaré hóstia rupireme...? - Mas que é aquela coisa branca que vemos quando o padre ergue a hóstia? (Bettendorff, Compêndio, 84); 3) claridade; (adj.: ting) - 1) branco [irregular: xe ting - eu (sou) branco; ting - ele é branco - O t- vale pelo pronome de 3ª p.]: Osobá-syb aó-tinga pupé. - Limpou seu rosto com um pano branco. (Ar., Cat., 62); ...ybyku'i-tinga gûyri... - sob a areia branca (Anch., Teatro, 170); ...Ûyrá-tinga our xebe. - Um pássaro branco veio a mim. (D'Abbeville, Histoire, 353); 2) claro: Xe resá-ting. - Eu tenho olhos claros. (VLB, I, 147)",
+        "tags": {
+            "cit": "Mba'e-tepe kûé tinga asé remiepîaka abaré hóstia rupireme...? - Mas que é aquela coisa branca que vemos quando o padre ergue a hóstia? (Bettendorff, Compêndio, 84)",
+            "word": "abaré hóstia rupireme",
+            "sujs": "abaré",
+            "sujp": "kûé tinga asé remiepîaka; asé",
+            "trans": "quando"
+        }
+    },
+    {
+        "f": "tupana",
+        "o": "1",
+        "d": "(s.) - dia santo, dia de festa: Tupãneme nhẽpe eresó kûepe?... - Por ocasião de um dia santo foste para longe? (Ar., Cat., 110v)",
+        "i": 10534,
+        "tags": {
+            "cit": "Tupãneme nhẽpe eresó kûepe?... - Por ocasião de um dia santo foste para longe? (Ar., Cat., 110v)",
+            "word": "Tupãneme",
+            "sujs": "Tupã",
+            "sujp": "endé",
+            "trans": "por ocasião de"
+        }
+    },
+    {
+        "f": "tykyr",
+        "o": "",
+        "d": "(v. intr.) - gotejar, dividir-se em gotas: ...Îandé Îara rugûy bé tykyreme... i tyky-tykyra bé îabi'õ Îandé Îara Jesus Cristo rekóû...? - E ao dividir-se em gotas o sangue de Nosso Senhor, em cada uma das gotas dele também está Nosso Senhor Jesus Cristo? (Bettendorff, Compêndio, 86)",
+        "i": 10612,
+        "c": [
+            {
+                "f": "oré orotykyr",
+                "s": "1ppe",
+                "o": null,
+                "m": "in",
+                "n": "oré n'orotykyri"
+            },
+            {
+                "f": "îandé îatykyr",
+                "s": "1ppi",
+                "o": null,
+                "m": "in",
+                "n": "îandé n'îatykyri"
+            },
+            {
+                "f": "ixé atykyr",
+                "s": "1ps",
+                "o": null,
+                "m": "in",
+                "n": "ixé n'atykyri"
+            },
+            {
+                "f": "peẽ petykyr",
+                "s": "2pp",
+                "o": null,
+                "m": "in",
+                "n": "peẽ na petykyri"
+            },
+            {
+                "f": "endé eretykyr",
+                "s": "2ps",
+                "o": null,
+                "m": "in",
+                "n": "endé n'eretykyri"
+            },
+            {
+                "f": "a'e otykyr",
+                "s": "3p",
+                "o": null,
+                "m": "in",
+                "n": "a'e n'otykyri"
+            },
+            {
+                "f": "orotyký",
+                "s": "1ppe",
+                "o": null,
+                "m": "ge",
+                "n": "orotykye'yma"
+            },
+            {
+                "f": "îatyký",
+                "s": "1ppi",
+                "o": null,
+                "m": "ge",
+                "n": "îatykye'yma"
+            },
+            {
+                "f": "gûityký",
+                "s": "1ps",
+                "o": null,
+                "m": "ge",
+                "n": "gûitykye'yma"
+            },
+            {
+                "f": "petyký",
+                "s": "2pp",
+                "o": null,
+                "m": "ge",
+                "n": "petykye'yma"
+            },
+            {
+                "f": "etyký",
+                "s": "2ps",
+                "o": null,
+                "m": "ge",
+                "n": "etykye'yma"
+            },
+            {
+                "f": "otyký",
+                "s": "3p",
+                "o": null,
+                "m": "ge",
+                "n": "otykye'yma"
+            },
+            {
+                "f": "oré tykyri",
+                "s": "1ppe",
+                "o": null,
+                "m": "ci",
+                "n": "oré tykyre'ymi"
+            },
+            {
+                "f": "îandé tykyri",
+                "s": "1ppi",
+                "o": null,
+                "m": "ci",
+                "n": "îandé tykyre'ymi"
+            },
+            {
+                "f": "xe tykyri",
+                "s": "1ps",
+                "o": null,
+                "m": "ci",
+                "n": "xe tykyre'ymi"
+            },
+            {
+                "f": "i tykyri",
+                "s": "3p",
+                "o": null,
+                "m": "ci",
+                "n": "i tykyre'ymi"
+            },
+            {
+                "f": "peẽ petykyr",
+                "s": "2pp",
+                "o": null,
+                "m": "im",
+                "n": "peẽ petykyr umẽ"
+            },
+            {
+                "f": "endé etykyr",
+                "s": "2ps",
+                "o": null,
+                "m": "im",
+                "n": "endé etykyr umẽ"
+            },
+            {
+                "f": "oré torotykyr",
+                "s": "1ppe",
+                "o": null,
+                "m": "pe",
+                "n": "oré torotykyr umẽ"
+            },
+            {
+                "f": "îandé tîatykyr",
+                "s": "1ppi",
+                "o": null,
+                "m": "pe",
+                "n": "îandé tîatykyr umẽ"
+            },
+            {
+                "f": "ixé tatykyr",
+                "s": "1ps",
+                "o": null,
+                "m": "pe",
+                "n": "ixé tatykyr umẽ"
+            },
+            {
+                "f": "peẽ tapetykyr",
+                "s": "2pp",
+                "o": null,
+                "m": "pe",
+                "n": "peẽ tapetykyr umẽ"
+            },
+            {
+                "f": "endé teretykyr",
+                "s": "2ps",
+                "o": null,
+                "m": "pe",
+                "n": "endé teretykyr umẽ"
+            },
+            {
+                "f": "a'e totykyr",
+                "s": "3p",
+                "o": null,
+                "m": "pe",
+                "n": "a'e totykyr umẽ"
+            }
+        ],
+        "tags": {
+            "cit": "...Îandé Îara rugûy bé tykyreme... i tyky-tykyra bé îabi'õ Îandé Îara Jesus Cristo rekóû...? - E ao dividir-se em gotas o sangue de Nosso Senhor, em cada uma das gotas dele também está Nosso Senhor Jesus Cristo? (Bettendorff, Compêndio, 86)",
+            "word": "Îandé Îara rugûy bé tykyreme",
+            "sujs": "Îandé Îara rugûy",
+            "sujp": "Îandé Îara",
+            "trans": "ao"
+        }
+    },
+    {
+        "f": "ungá",
+        "o": "",
+        "d": "(s) (v.tr.) - apalpar, apertar com os dedos: Eresungápe nde rygé nde membyra îukábo...? - Apalpaste teu ventre para matar teu filho? (Ar., Cat., 102); Nde rorype... nde kama abá sungáreme? - Tu te alegras quando um homem apalpa teus seios? (Ar., Cat., 234, 1686)",
+        "i": 10817,
+        "c": [
+            {
+                "f": "ixé oroungá",
+                "s": "1ps",
+                "o": "2ps",
+                "m": "in",
+                "n": "ixé n'oroungáî"
+            },
+            {
+                "f": "ixé opoungá",
+                "s": "1ps",
+                "o": "2pp",
+                "m": "in",
+                "n": "ixé n'opoungáî"
+            },
+            {
+                "f": "ixé a'e asungá",
+                "s": "1ps",
+                "o": "3p",
+                "m": "in",
+                "n": "ixé a'e n'asungáî"
+            },
+            {
+                "f": "ixé aîeungá",
+                "s": "1ps",
+                "o": "refl",
+                "m": "in",
+                "n": "ixé n'aîeungáî"
+            },
+            {
+                "f": "oré oroungá",
+                "s": "1ppe",
+                "o": "2ps",
+                "m": "in",
+                "n": "oré n'oroungáî"
+            },
+            {
+                "f": "oré opoungá",
+                "s": "1ppe",
+                "o": "2pp",
+                "m": "in",
+                "n": "oré n'opoungáî"
+            },
+            {
+                "f": "oré a'e orosungá",
+                "s": "1ppe",
+                "o": "3p",
+                "m": "in",
+                "n": "oré a'e n'orosungáî"
+            },
+            {
+                "f": "oré oroîeungá",
+                "s": "1ppe",
+                "o": "refl",
+                "m": "in",
+                "n": "oré n'oroîeungáî"
+            },
+            {
+                "f": "oré oroîoungá",
+                "s": "1ppe",
+                "o": "mut",
+                "m": "in",
+                "n": "oré n'oroîoungáî"
+            },
+            {
+                "f": "îandé a'e îasungá",
+                "s": "1ppi",
+                "o": "3p",
+                "m": "in",
+                "n": "îandé a'e n'îasungáî"
+            },
+            {
+                "f": "îandé îaîeungá",
+                "s": "1ppi",
+                "o": "refl",
+                "m": "in",
+                "n": "îandé n'îaîeungáî"
+            },
+            {
+                "f": "îandé îaîoungá",
+                "s": "1ppi",
+                "o": "mut",
+                "m": "in",
+                "n": "îandé n'îaîoungáî"
+            },
+            {
+                "f": "xerungá îepé",
+                "s": "2ps",
+                "o": "1ps",
+                "m": "in",
+                "n": "na xerungáî îepé"
+            },
+            {
+                "f": "orérungá îepé",
+                "s": "2ps",
+                "o": "1ppe",
+                "m": "in",
+                "n": "n'orérungáî îepé"
+            },
+            {
+                "f": "endé a'e eresungá",
+                "s": "2ps",
+                "o": "3p",
+                "m": "in",
+                "n": "endé a'e n'eresungáî"
+            },
+            {
+                "f": "endé ereîeungá",
+                "s": "2ps",
+                "o": "refl",
+                "m": "in",
+                "n": "endé n'ereîeungáî"
+            },
+            {
+                "f": "xerungá peîepé",
+                "s": "2pp",
+                "o": "1ps",
+                "m": "in",
+                "n": "na xerungáî peîepé"
+            },
+            {
+                "f": "orérungá peîepé",
+                "s": "2pp",
+                "o": "1ppe",
+                "m": "in",
+                "n": "n'orérungáî peîepé"
+            },
+            {
+                "f": "peẽ a'e pesungá",
+                "s": "2pp",
+                "o": "3p",
+                "m": "in",
+                "n": "peẽ a'e na pesungáî"
+            },
+            {
+                "f": "peẽ peîeungá",
+                "s": "2pp",
+                "o": "refl",
+                "m": "in",
+                "n": "peẽ na peîeungáî"
+            },
+            {
+                "f": "peẽ peîoungá",
+                "s": "2pp",
+                "o": "mut",
+                "m": "in",
+                "n": "peẽ na peîoungáî"
+            },
+            {
+                "f": "xerungá a'e",
+                "s": "3p",
+                "o": "1ps",
+                "m": "in",
+                "n": "na xerungáî a'e"
+            },
+            {
+                "f": "orérungá a'e",
+                "s": "3p",
+                "o": "1ppe",
+                "m": "in",
+                "n": "n'orérungáî a'e"
+            },
+            {
+                "f": "îandérungá a'e",
+                "s": "3p",
+                "o": "1ppi",
+                "m": "in",
+                "n": "n'îandérungáî a'e"
+            },
+            {
+                "f": "nderungá a'e",
+                "s": "3p",
+                "o": "2ps",
+                "m": "in",
+                "n": "na nderungáî a'e"
+            },
+            {
+                "f": "perungá a'e",
+                "s": "3p",
+                "o": "2pp",
+                "m": "in",
+                "n": "na perungáî a'e"
+            },
+            {
+                "f": "a'e a'e osungá",
+                "s": "3p",
+                "o": "3p",
+                "m": "in",
+                "n": "a'e a'e n'osungáî"
+            },
+            {
+                "f": "a'e oîeungá",
+                "s": "3p",
+                "o": "refl",
+                "m": "in",
+                "n": "a'e n'oîeungáî"
+            },
+            {
+                "f": "a'e oîoungá",
+                "s": "3p",
+                "o": "mut",
+                "m": "in",
+                "n": "a'e n'oîoungáî"
+            },
+            {
+                "f": "xerungábo",
+                "s": null,
+                "o": "1ps",
+                "m": "ge",
+                "n": "xerungáe'yma"
+            },
+            {
+                "f": "orérungábo",
+                "s": null,
+                "o": "1ppe",
+                "m": "ge",
+                "n": "orérungáe'yma"
+            },
+            {
+                "f": "îandérungábo",
+                "s": null,
+                "o": "1ppi",
+                "m": "ge",
+                "n": "îandérungáe'yma"
+            },
+            {
+                "f": "nderungábo",
+                "s": null,
+                "o": "2ps",
+                "m": "ge",
+                "n": "nderungáe'yma"
+            },
+            {
+                "f": "perungábo",
+                "s": null,
+                "o": "2pp",
+                "m": "ge",
+                "n": "perungáe'yma"
+            },
+            {
+                "f": "sungábo",
+                "s": null,
+                "o": "3p",
+                "m": "ge",
+                "n": "sungáe'yma"
+            },
+            {
+                "f": "xe îeungáû",
+                "s": "1ps",
+                "o": "refl",
+                "m": "ci",
+                "n": "xe îeungáe'ymi"
+            },
+            {
+                "f": "xe îoungáû",
+                "s": "1ps",
+                "o": "mut",
+                "m": "ci",
+                "n": "xe îoungáe'ymi"
+            },
+            {
+                "f": "xe orérungáû",
+                "s": "1ps",
+                "o": "1ppe",
+                "m": "ci",
+                "n": "xe orérungáe'ymi"
+            },
+            {
+                "f": "xe îandérungáû",
+                "s": "1ps",
+                "o": "1ppi",
+                "m": "ci",
+                "n": "xe îandérungáe'ymi"
+            },
+            {
+                "f": "xe nderungáû",
+                "s": "1ps",
+                "o": "2ps",
+                "m": "ci",
+                "n": "xe nderungáe'ymi"
+            },
+            {
+                "f": "xe perungáû",
+                "s": "1ps",
+                "o": "2pp",
+                "m": "ci",
+                "n": "xe perungáe'ymi"
+            },
+            {
+                "f": "xe sungáû",
+                "s": "1ps",
+                "o": "3p",
+                "m": "ci",
+                "n": "xe sungáe'ymi"
+            },
+            {
+                "f": "oré xerungáû",
+                "s": "1ppe",
+                "o": "1ps",
+                "m": "ci",
+                "n": "oré xerungáe'ymi"
+            },
+            {
+                "f": "oré îeungáû",
+                "s": "1ppe",
+                "o": "refl",
+                "m": "ci",
+                "n": "oré îeungáe'ymi"
+            },
+            {
+                "f": "oré îoungáû",
+                "s": "1ppe",
+                "o": "mut",
+                "m": "ci",
+                "n": "oré îoungáe'ymi"
+            },
+            {
+                "f": "oré nderungáû",
+                "s": "1ppe",
+                "o": "2ps",
+                "m": "ci",
+                "n": "oré nderungáe'ymi"
+            },
+            {
+                "f": "oré perungáû",
+                "s": "1ppe",
+                "o": "2pp",
+                "m": "ci",
+                "n": "oré perungáe'ymi"
+            },
+            {
+                "f": "oré sungáû",
+                "s": "1ppe",
+                "o": "3p",
+                "m": "ci",
+                "n": "oré sungáe'ymi"
+            },
+            {
+                "f": "îandé xerungáû",
+                "s": "1ppi",
+                "o": "1ps",
+                "m": "ci",
+                "n": "îandé xerungáe'ymi"
+            },
+            {
+                "f": "îandé îeungáû",
+                "s": "1ppi",
+                "o": "refl",
+                "m": "ci",
+                "n": "îandé îeungáe'ymi"
+            },
+            {
+                "f": "îandé îoungáû",
+                "s": "1ppi",
+                "o": "mut",
+                "m": "ci",
+                "n": "îandé îoungáe'ymi"
+            },
+            {
+                "f": "îandé sungáû",
+                "s": "1ppi",
+                "o": "3p",
+                "m": "ci",
+                "n": "îandé sungáe'ymi"
+            },
+            {
+                "f": "a'e xerungáû",
+                "s": "3p",
+                "o": "1ps",
+                "m": "ci",
+                "n": "a'e xerungáe'ymi"
+            },
+            {
+                "f": "a'e orérungáû",
+                "s": "3p",
+                "o": "1ppe",
+                "m": "ci",
+                "n": "a'e orérungáe'ymi"
+            },
+            {
+                "f": "a'e îandérungáû",
+                "s": "3p",
+                "o": "1ppi",
+                "m": "ci",
+                "n": "a'e îandérungáe'ymi"
+            },
+            {
+                "f": "a'e nderungáû",
+                "s": "3p",
+                "o": "2ps",
+                "m": "ci",
+                "n": "a'e nderungáe'ymi"
+            },
+            {
+                "f": "a'e perungáû",
+                "s": "3p",
+                "o": "2pp",
+                "m": "ci",
+                "n": "a'e perungáe'ymi"
+            },
+            {
+                "f": "a'e sungáû",
+                "s": "3p",
+                "o": "3p",
+                "m": "ci",
+                "n": "a'e sungáe'ymi"
+            },
+            {
+                "f": "a'e îeungáû",
+                "s": "3p",
+                "o": "refl",
+                "m": "ci",
+                "n": "a'e îeungáe'ymi"
+            },
+            {
+                "f": "a'e îoungáû",
+                "s": "3p",
+                "o": "mut",
+                "m": "ci",
+                "n": "a'e îoungáe'ymi"
+            },
+            {
+                "f": "xerungá îepé",
+                "s": "2ps",
+                "o": "1ps",
+                "m": "im",
+                "n": "xerungá umẽ îepé"
+            },
+            {
+                "f": "orérungá îepé",
+                "s": "2ps",
+                "o": "1ppe",
+                "m": "im",
+                "n": "orérungá umẽ îepé"
+            },
+            {
+                "f": "endé eîeungá",
+                "s": "2ps",
+                "o": "2ps",
+                "m": "im",
+                "n": "endé eîeungá umẽ"
+            },
+            {
+                "f": "endé a'e esungá",
+                "s": "2ps",
+                "o": "3p",
+                "m": "im",
+                "n": "endé a'e esungá umẽ"
+            },
+            {
+                "f": "xerungá peîepé",
+                "s": "2pp",
+                "o": "1ps",
+                "m": "im",
+                "n": "xerungá umẽ peîepé"
+            },
+            {
+                "f": "orérungá peîepé",
+                "s": "2pp",
+                "o": "1ppe",
+                "m": "im",
+                "n": "orérungá umẽ peîepé"
+            },
+            {
+                "f": "peẽ peîeungá",
+                "s": "2pp",
+                "o": "2pp",
+                "m": "im",
+                "n": "peẽ peîeungá umẽ"
+            },
+            {
+                "f": "peẽ a'e pesungá",
+                "s": "2pp",
+                "o": "3p",
+                "m": "im",
+                "n": "peẽ a'e pesungá umẽ"
+            },
+            {
+                "f": "ixé toroungá",
+                "s": "1ps",
+                "o": "2ps",
+                "m": "pe",
+                "n": "ixé toroungá umẽ"
+            },
+            {
+                "f": "ixé topoungá",
+                "s": "1ps",
+                "o": "2pp",
+                "m": "pe",
+                "n": "ixé topoungá umẽ"
+            },
+            {
+                "f": "ixé a'e tasungá",
+                "s": "1ps",
+                "o": "3p",
+                "m": "pe",
+                "n": "ixé a'e tasungá umẽ"
+            },
+            {
+                "f": "ixé taîeungá",
+                "s": "1ps",
+                "o": "refl",
+                "m": "pe",
+                "n": "ixé taîeungá umẽ"
+            },
+            {
+                "f": "oré toroungá",
+                "s": "1ppe",
+                "o": "2ps",
+                "m": "pe",
+                "n": "oré toroungá umẽ"
+            },
+            {
+                "f": "oré topoungá",
+                "s": "1ppe",
+                "o": "2pp",
+                "m": "pe",
+                "n": "oré topoungá umẽ"
+            },
+            {
+                "f": "oré a'e torosungá",
+                "s": "1ppe",
+                "o": "3p",
+                "m": "pe",
+                "n": "oré a'e torosungá umẽ"
+            },
+            {
+                "f": "oré toroîeungá",
+                "s": "1ppe",
+                "o": "refl",
+                "m": "pe",
+                "n": "oré toroîeungá umẽ"
+            },
+            {
+                "f": "oré toroîoungá",
+                "s": "1ppe",
+                "o": "mut",
+                "m": "pe",
+                "n": "oré toroîoungá umẽ"
+            },
+            {
+                "f": "îandé a'e tîasungá",
+                "s": "1ppi",
+                "o": "3p",
+                "m": "pe",
+                "n": "îandé a'e tîasungá umẽ"
+            },
+            {
+                "f": "îandé tîaîeungá",
+                "s": "1ppi",
+                "o": "refl",
+                "m": "pe",
+                "n": "îandé tîaîeungá umẽ"
+            },
+            {
+                "f": "îandé tîaîoungá",
+                "s": "1ppi",
+                "o": "mut",
+                "m": "pe",
+                "n": "îandé tîaîoungá umẽ"
+            },
+            {
+                "f": "taxerungá îepé",
+                "s": "2ps",
+                "o": "1ps",
+                "m": "pe",
+                "n": "taxerungá umẽ îepé"
+            },
+            {
+                "f": "torérungá îepé",
+                "s": "2ps",
+                "o": "1ppe",
+                "m": "pe",
+                "n": "torérungá umẽ îepé"
+            },
+            {
+                "f": "endé a'e teresungá",
+                "s": "2ps",
+                "o": "3p",
+                "m": "pe",
+                "n": "endé a'e teresungá umẽ"
+            },
+            {
+                "f": "endé tereîeungá",
+                "s": "2ps",
+                "o": "refl",
+                "m": "pe",
+                "n": "endé tereîeungá umẽ"
+            },
+            {
+                "f": "taxerungá peîepé",
+                "s": "2pp",
+                "o": "1ps",
+                "m": "pe",
+                "n": "taxerungá umẽ peîepé"
+            },
+            {
+                "f": "torérungá peîepé",
+                "s": "2pp",
+                "o": "1ppe",
+                "m": "pe",
+                "n": "torérungá umẽ peîepé"
+            },
+            {
+                "f": "peẽ a'e tapesungá",
+                "s": "2pp",
+                "o": "3p",
+                "m": "pe",
+                "n": "peẽ a'e tapesungá umẽ"
+            },
+            {
+                "f": "peẽ tapeîeungá",
+                "s": "2pp",
+                "o": "refl",
+                "m": "pe",
+                "n": "peẽ tapeîeungá umẽ"
+            },
+            {
+                "f": "peẽ tapeîoungá",
+                "s": "2pp",
+                "o": "mut",
+                "m": "pe",
+                "n": "peẽ tapeîoungá umẽ"
+            },
+            {
+                "f": "taxerungá a'e",
+                "s": "3p",
+                "o": "1ps",
+                "m": "pe",
+                "n": "taxerungá umẽ a'e"
+            },
+            {
+                "f": "torérungá a'e",
+                "s": "3p",
+                "o": "1ppe",
+                "m": "pe",
+                "n": "torérungá umẽ a'e"
+            },
+            {
+                "f": "tîandérungá a'e",
+                "s": "3p",
+                "o": "1ppi",
+                "m": "pe",
+                "n": "tîandérungá umẽ a'e"
+            },
+            {
+                "f": "tanderungá a'e",
+                "s": "3p",
+                "o": "2ps",
+                "m": "pe",
+                "n": "tanderungá umẽ a'e"
+            },
+            {
+                "f": "taperungá a'e",
+                "s": "3p",
+                "o": "2pp",
+                "m": "pe",
+                "n": "taperungá umẽ a'e"
+            },
+            {
+                "f": "a'e a'e tosungá",
+                "s": "3p",
+                "o": "3p",
+                "m": "pe",
+                "n": "a'e a'e tosungá umẽ"
+            },
+            {
+                "f": "a'e toîeungá",
+                "s": "3p",
+                "o": "refl",
+                "m": "pe",
+                "n": "a'e toîeungá umẽ"
+            },
+            {
+                "f": "a'e toîoungá",
+                "s": "3p",
+                "o": "mut",
+                "m": "pe",
+                "n": "a'e toîoungá umẽ"
+            }
+        ],
+        "tags": {
+            "cit": "Nde rorype... nde kama abá sungáreme? - Tu te alegras quando um homem apalpa teus seios? (Ar., Cat., 234, 1686)",
+            "word": "abá sungáreme",
+            "sujs": "abá",
+            "sujp": "endé",
+            "trans": "quando"
+        }
+    },
+    {
+        "f": "ybŷá",
+        "o": "",
+        "d": "(ou ybá ou bŷá) (part. que expressa indeterminação do sujeito ou do objeto. Como sujeito, equivale ao se do português em \"Come-se bem aqui\" ou à 3ª p. do plural em \"falaram bem dele\". Como objeto, aparece com partículas de sentido indefinido.): Marãpe ybŷá serekóû aîpó i 'ereme? - Como o trataram ao dizer ele isso? (Ar., Cat., 55v); Kó 'ara nungara pupé Santa Maria sóû o ykera amõ ybá Santa Isabel supa. - Num dia semelhante a este, Santa Maria foi para visitar uma certa prima sua, Santa Isabel. (Ar., Cat., 6v)",
+        "i": 11092,
+        "tags": {
+            "cit": "Marãpe ybŷá serekóû aîpó i 'ereme? - Como o trataram ao dizer ele isso? (Ar., Cat., 55v)",
+            "word": "i 'ereme",
+            "sujs": "a'e",
+            "sujp": "ybyá",
+            "trans": "ao"
+        }
+    },
+    {
+        "f": "ypy",
+        "o": "1",
+        "d": "(v.tr.) - começar a (com verbo incorporado): ...sa'ang-ypŷabo - começando a pronunciá-lo (Ar., Cat., 25v); Osepîápe karaibebé Tupã o monhangara o monhang-ypyreme? - Viram os anjos a Deus, seu criador, quando ele começou a criá-los? (Ar., Cat., 37v)",
+        "i": 11379,
+        "c": [
+            {
+                "f": "ixé oroypy",
+                "s": "1ps",
+                "o": "2ps",
+                "m": "in",
+                "n": "ixé n'oroypyî"
+            },
+            {
+                "f": "ixé opoypy",
+                "s": "1ps",
+                "o": "2pp",
+                "m": "in",
+                "n": "ixé n'opoypyî"
+            },
+            {
+                "f": "ixé a'e aîypy",
+                "s": "1ps",
+                "o": "3p",
+                "m": "in",
+                "n": "ixé a'e n'aîypyî"
+            },
+            {
+                "f": "ixé aîeypy",
+                "s": "1ps",
+                "o": "refl",
+                "m": "in",
+                "n": "ixé n'aîeypyî"
+            },
+            {
+                "f": "oré oroypy",
+                "s": "1ppe",
+                "o": "2ps",
+                "m": "in",
+                "n": "oré n'oroypyî"
+            },
+            {
+                "f": "oré opoypy",
+                "s": "1ppe",
+                "o": "2pp",
+                "m": "in",
+                "n": "oré n'opoypyî"
+            },
+            {
+                "f": "oré a'e oroîypy",
+                "s": "1ppe",
+                "o": "3p",
+                "m": "in",
+                "n": "oré a'e n'oroîypyî"
+            },
+            {
+                "f": "oré oroîeypy",
+                "s": "1ppe",
+                "o": "refl",
+                "m": "in",
+                "n": "oré n'oroîeypyî"
+            },
+            {
+                "f": "oré oroîoypy",
+                "s": "1ppe",
+                "o": "mut",
+                "m": "in",
+                "n": "oré n'oroîoypyî"
+            },
+            {
+                "f": "îandé a'e îaîypy",
+                "s": "1ppi",
+                "o": "3p",
+                "m": "in",
+                "n": "îandé a'e n'îaîypyî"
+            },
+            {
+                "f": "îandé îaîeypy",
+                "s": "1ppi",
+                "o": "refl",
+                "m": "in",
+                "n": "îandé n'îaîeypyî"
+            },
+            {
+                "f": "îandé îaîoypy",
+                "s": "1ppi",
+                "o": "mut",
+                "m": "in",
+                "n": "îandé n'îaîoypyî"
+            },
+            {
+                "f": "xeypy îepé",
+                "s": "2ps",
+                "o": "1ps",
+                "m": "in",
+                "n": "na xeypyî îepé"
+            },
+            {
+                "f": "oréypy îepé",
+                "s": "2ps",
+                "o": "1ppe",
+                "m": "in",
+                "n": "n'oréypyî îepé"
+            },
+            {
+                "f": "endé a'e ereîypy",
+                "s": "2ps",
+                "o": "3p",
+                "m": "in",
+                "n": "endé a'e n'ereîypyî"
+            },
+            {
+                "f": "endé ereîeypy",
+                "s": "2ps",
+                "o": "refl",
+                "m": "in",
+                "n": "endé n'ereîeypyî"
+            },
+            {
+                "f": "xeypy peîepé",
+                "s": "2pp",
+                "o": "1ps",
+                "m": "in",
+                "n": "na xeypyî peîepé"
+            },
+            {
+                "f": "oréypy peîepé",
+                "s": "2pp",
+                "o": "1ppe",
+                "m": "in",
+                "n": "n'oréypyî peîepé"
+            },
+            {
+                "f": "peẽ a'e peîypy",
+                "s": "2pp",
+                "o": "3p",
+                "m": "in",
+                "n": "peẽ a'e na peîypyî"
+            },
+            {
+                "f": "peẽ peîeypy",
+                "s": "2pp",
+                "o": "refl",
+                "m": "in",
+                "n": "peẽ na peîeypyî"
+            },
+            {
+                "f": "peẽ peîoypy",
+                "s": "2pp",
+                "o": "mut",
+                "m": "in",
+                "n": "peẽ na peîoypyî"
+            },
+            {
+                "f": "xeypy a'e",
+                "s": "3p",
+                "o": "1ps",
+                "m": "in",
+                "n": "na xeypyî a'e"
+            },
+            {
+                "f": "oréypy a'e",
+                "s": "3p",
+                "o": "1ppe",
+                "m": "in",
+                "n": "n'oréypyî a'e"
+            },
+            {
+                "f": "îandéypy a'e",
+                "s": "3p",
+                "o": "1ppi",
+                "m": "in",
+                "n": "n'îandéypyî a'e"
+            },
+            {
+                "f": "ndeypy a'e",
+                "s": "3p",
+                "o": "2ps",
+                "m": "in",
+                "n": "na ndeypyî a'e"
+            },
+            {
+                "f": "peypy a'e",
+                "s": "3p",
+                "o": "2pp",
+                "m": "in",
+                "n": "na peypyî a'e"
+            },
+            {
+                "f": "a'e a'e oîypy",
+                "s": "3p",
+                "o": "3p",
+                "m": "in",
+                "n": "a'e a'e n'oîypyî"
+            },
+            {
+                "f": "a'e oîeypy",
+                "s": "3p",
+                "o": "refl",
+                "m": "in",
+                "n": "a'e n'oîeypyî"
+            },
+            {
+                "f": "a'e oîoypy",
+                "s": "3p",
+                "o": "mut",
+                "m": "in",
+                "n": "a'e n'oîoypyî"
+            },
+            {
+                "f": "xeypyamo",
+                "s": null,
+                "o": "1ps",
+                "m": "ge",
+                "n": "xeypye'yma"
+            },
+            {
+                "f": "oréypyamo",
+                "s": null,
+                "o": "1ppe",
+                "m": "ge",
+                "n": "oréypye'yma"
+            },
+            {
+                "f": "îandéypyamo",
+                "s": null,
+                "o": "1ppi",
+                "m": "ge",
+                "n": "îandéypye'yma"
+            },
+            {
+                "f": "ndeypyamo",
+                "s": null,
+                "o": "2ps",
+                "m": "ge",
+                "n": "ndeypye'yma"
+            },
+            {
+                "f": "peypyamo",
+                "s": null,
+                "o": "2pp",
+                "m": "ge",
+                "n": "peypye'yma"
+            },
+            {
+                "f": "iypyamo",
+                "s": null,
+                "o": "3p",
+                "m": "ge",
+                "n": "iypye'yma"
+            },
+            {
+                "f": "xe îeypyû",
+                "s": "1ps",
+                "o": "refl",
+                "m": "ci",
+                "n": "xe îeypye'ymi"
+            },
+            {
+                "f": "xe îoypyû",
+                "s": "1ps",
+                "o": "mut",
+                "m": "ci",
+                "n": "xe îoypye'ymi"
+            },
+            {
+                "f": "xe oréypyû",
+                "s": "1ps",
+                "o": "1ppe",
+                "m": "ci",
+                "n": "xe oréypye'ymi"
+            },
+            {
+                "f": "xe îandéypyû",
+                "s": "1ps",
+                "o": "1ppi",
+                "m": "ci",
+                "n": "xe îandéypye'ymi"
+            },
+            {
+                "f": "xe ndeypyû",
+                "s": "1ps",
+                "o": "2ps",
+                "m": "ci",
+                "n": "xe ndeypye'ymi"
+            },
+            {
+                "f": "xe peypyû",
+                "s": "1ps",
+                "o": "2pp",
+                "m": "ci",
+                "n": "xe peypye'ymi"
+            },
+            {
+                "f": "xe iypyû",
+                "s": "1ps",
+                "o": "3p",
+                "m": "ci",
+                "n": "xe iypye'ymi"
+            },
+            {
+                "f": "oré xeypyû",
+                "s": "1ppe",
+                "o": "1ps",
+                "m": "ci",
+                "n": "oré xeypye'ymi"
+            },
+            {
+                "f": "oré îeypyû",
+                "s": "1ppe",
+                "o": "refl",
+                "m": "ci",
+                "n": "oré îeypye'ymi"
+            },
+            {
+                "f": "oré îoypyû",
+                "s": "1ppe",
+                "o": "mut",
+                "m": "ci",
+                "n": "oré îoypye'ymi"
+            },
+            {
+                "f": "oré ndeypyû",
+                "s": "1ppe",
+                "o": "2ps",
+                "m": "ci",
+                "n": "oré ndeypye'ymi"
+            },
+            {
+                "f": "oré peypyû",
+                "s": "1ppe",
+                "o": "2pp",
+                "m": "ci",
+                "n": "oré peypye'ymi"
+            },
+            {
+                "f": "oré iypyû",
+                "s": "1ppe",
+                "o": "3p",
+                "m": "ci",
+                "n": "oré iypye'ymi"
+            },
+            {
+                "f": "îandé xeypyû",
+                "s": "1ppi",
+                "o": "1ps",
+                "m": "ci",
+                "n": "îandé xeypye'ymi"
+            },
+            {
+                "f": "îandé îeypyû",
+                "s": "1ppi",
+                "o": "refl",
+                "m": "ci",
+                "n": "îandé îeypye'ymi"
+            },
+            {
+                "f": "îandé îoypyû",
+                "s": "1ppi",
+                "o": "mut",
+                "m": "ci",
+                "n": "îandé îoypye'ymi"
+            },
+            {
+                "f": "îandé iypyû",
+                "s": "1ppi",
+                "o": "3p",
+                "m": "ci",
+                "n": "îandé iypye'ymi"
+            },
+            {
+                "f": "a'e xeypyû",
+                "s": "3p",
+                "o": "1ps",
+                "m": "ci",
+                "n": "a'e xeypye'ymi"
+            },
+            {
+                "f": "a'e oréypyû",
+                "s": "3p",
+                "o": "1ppe",
+                "m": "ci",
+                "n": "a'e oréypye'ymi"
+            },
+            {
+                "f": "a'e îandéypyû",
+                "s": "3p",
+                "o": "1ppi",
+                "m": "ci",
+                "n": "a'e îandéypye'ymi"
+            },
+            {
+                "f": "a'e ndeypyû",
+                "s": "3p",
+                "o": "2ps",
+                "m": "ci",
+                "n": "a'e ndeypye'ymi"
+            },
+            {
+                "f": "a'e peypyû",
+                "s": "3p",
+                "o": "2pp",
+                "m": "ci",
+                "n": "a'e peypye'ymi"
+            },
+            {
+                "f": "a'e iypyû",
+                "s": "3p",
+                "o": "3p",
+                "m": "ci",
+                "n": "a'e iypye'ymi"
+            },
+            {
+                "f": "a'e îeypyû",
+                "s": "3p",
+                "o": "refl",
+                "m": "ci",
+                "n": "a'e îeypye'ymi"
+            },
+            {
+                "f": "a'e îoypyû",
+                "s": "3p",
+                "o": "mut",
+                "m": "ci",
+                "n": "a'e îoypye'ymi"
+            },
+            {
+                "f": "xeypy îepé",
+                "s": "2ps",
+                "o": "1ps",
+                "m": "im",
+                "n": "xeypy umẽ îepé"
+            },
+            {
+                "f": "oréypy îepé",
+                "s": "2ps",
+                "o": "1ppe",
+                "m": "im",
+                "n": "oréypy umẽ îepé"
+            },
+            {
+                "f": "endé eîeypy",
+                "s": "2ps",
+                "o": "2ps",
+                "m": "im",
+                "n": "endé eîeypy umẽ"
+            },
+            {
+                "f": "endé a'e eîypy",
+                "s": "2ps",
+                "o": "3p",
+                "m": "im",
+                "n": "endé a'e eîypy umẽ"
+            },
+            {
+                "f": "xeypy peîepé",
+                "s": "2pp",
+                "o": "1ps",
+                "m": "im",
+                "n": "xeypy umẽ peîepé"
+            },
+            {
+                "f": "oréypy peîepé",
+                "s": "2pp",
+                "o": "1ppe",
+                "m": "im",
+                "n": "oréypy umẽ peîepé"
+            },
+            {
+                "f": "peẽ peîeypy",
+                "s": "2pp",
+                "o": "2pp",
+                "m": "im",
+                "n": "peẽ peîeypy umẽ"
+            },
+            {
+                "f": "peẽ a'e peîypy",
+                "s": "2pp",
+                "o": "3p",
+                "m": "im",
+                "n": "peẽ a'e peîypy umẽ"
+            },
+            {
+                "f": "ixé toroypy",
+                "s": "1ps",
+                "o": "2ps",
+                "m": "pe",
+                "n": "ixé toroypy umẽ"
+            },
+            {
+                "f": "ixé topoypy",
+                "s": "1ps",
+                "o": "2pp",
+                "m": "pe",
+                "n": "ixé topoypy umẽ"
+            },
+            {
+                "f": "ixé a'e taîypy",
+                "s": "1ps",
+                "o": "3p",
+                "m": "pe",
+                "n": "ixé a'e taîypy umẽ"
+            },
+            {
+                "f": "ixé taîeypy",
+                "s": "1ps",
+                "o": "refl",
+                "m": "pe",
+                "n": "ixé taîeypy umẽ"
+            },
+            {
+                "f": "oré toroypy",
+                "s": "1ppe",
+                "o": "2ps",
+                "m": "pe",
+                "n": "oré toroypy umẽ"
+            },
+            {
+                "f": "oré topoypy",
+                "s": "1ppe",
+                "o": "2pp",
+                "m": "pe",
+                "n": "oré topoypy umẽ"
+            },
+            {
+                "f": "oré a'e toroîypy",
+                "s": "1ppe",
+                "o": "3p",
+                "m": "pe",
+                "n": "oré a'e toroîypy umẽ"
+            },
+            {
+                "f": "oré toroîeypy",
+                "s": "1ppe",
+                "o": "refl",
+                "m": "pe",
+                "n": "oré toroîeypy umẽ"
+            },
+            {
+                "f": "oré toroîoypy",
+                "s": "1ppe",
+                "o": "mut",
+                "m": "pe",
+                "n": "oré toroîoypy umẽ"
+            },
+            {
+                "f": "îandé a'e tîaîypy",
+                "s": "1ppi",
+                "o": "3p",
+                "m": "pe",
+                "n": "îandé a'e tîaîypy umẽ"
+            },
+            {
+                "f": "îandé tîaîeypy",
+                "s": "1ppi",
+                "o": "refl",
+                "m": "pe",
+                "n": "îandé tîaîeypy umẽ"
+            },
+            {
+                "f": "îandé tîaîoypy",
+                "s": "1ppi",
+                "o": "mut",
+                "m": "pe",
+                "n": "îandé tîaîoypy umẽ"
+            },
+            {
+                "f": "taxeypy îepé",
+                "s": "2ps",
+                "o": "1ps",
+                "m": "pe",
+                "n": "taxeypy umẽ îepé"
+            },
+            {
+                "f": "toréypy îepé",
+                "s": "2ps",
+                "o": "1ppe",
+                "m": "pe",
+                "n": "toréypy umẽ îepé"
+            },
+            {
+                "f": "endé a'e tereîypy",
+                "s": "2ps",
+                "o": "3p",
+                "m": "pe",
+                "n": "endé a'e tereîypy umẽ"
+            },
+            {
+                "f": "endé tereîeypy",
+                "s": "2ps",
+                "o": "refl",
+                "m": "pe",
+                "n": "endé tereîeypy umẽ"
+            },
+            {
+                "f": "taxeypy peîepé",
+                "s": "2pp",
+                "o": "1ps",
+                "m": "pe",
+                "n": "taxeypy umẽ peîepé"
+            },
+            {
+                "f": "toréypy peîepé",
+                "s": "2pp",
+                "o": "1ppe",
+                "m": "pe",
+                "n": "toréypy umẽ peîepé"
+            },
+            {
+                "f": "peẽ a'e tapeîypy",
+                "s": "2pp",
+                "o": "3p",
+                "m": "pe",
+                "n": "peẽ a'e tapeîypy umẽ"
+            },
+            {
+                "f": "peẽ tapeîeypy",
+                "s": "2pp",
+                "o": "refl",
+                "m": "pe",
+                "n": "peẽ tapeîeypy umẽ"
+            },
+            {
+                "f": "peẽ tapeîoypy",
+                "s": "2pp",
+                "o": "mut",
+                "m": "pe",
+                "n": "peẽ tapeîoypy umẽ"
+            },
+            {
+                "f": "taxeypy a'e",
+                "s": "3p",
+                "o": "1ps",
+                "m": "pe",
+                "n": "taxeypy umẽ a'e"
+            },
+            {
+                "f": "toréypy a'e",
+                "s": "3p",
+                "o": "1ppe",
+                "m": "pe",
+                "n": "toréypy umẽ a'e"
+            },
+            {
+                "f": "tîandéypy a'e",
+                "s": "3p",
+                "o": "1ppi",
+                "m": "pe",
+                "n": "tîandéypy umẽ a'e"
+            },
+            {
+                "f": "tandeypy a'e",
+                "s": "3p",
+                "o": "2ps",
+                "m": "pe",
+                "n": "tandeypy umẽ a'e"
+            },
+            {
+                "f": "tapeypy a'e",
+                "s": "3p",
+                "o": "2pp",
+                "m": "pe",
+                "n": "tapeypy umẽ a'e"
+            },
+            {
+                "f": "a'e a'e toîypy",
+                "s": "3p",
+                "o": "3p",
+                "m": "pe",
+                "n": "a'e a'e toîypy umẽ"
+            },
+            {
+                "f": "a'e toîeypy",
+                "s": "3p",
+                "o": "refl",
+                "m": "pe",
+                "n": "a'e toîeypy umẽ"
+            },
+            {
+                "f": "a'e toîoypy",
+                "s": "3p",
+                "o": "mut",
+                "m": "pe",
+                "n": "a'e toîoypy umẽ"
+            }
+        ],
+        "tags": {
+            "cit": "Osepîápe karaibebé Tupã o monhangara o monhang-ypyreme? - Viram os anjos a Deus, seu criador, quando ele começou a criá-los? (Ar., Cat., 37v)",
+            "word": "Tupã o monhangara o monhang-ypyreme",
+            "sujs": "Tupã o monhangara",
+            "sujp": "karaibebé",
             "trans": "quando"
         }
     }

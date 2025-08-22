@@ -10,6 +10,44 @@ extract = lambda c: ", ".join(re.search(r'\(([^)]+)\)', c).group(1).split(", ")[
 ds_count = ss_count = 0
 seen_citations = set()
 source_counts, ss_counts = Counter(), Counter()
+def create_expex_gloss_v2(data):
+    """
+    Converts SS examples into LaTeX glosses for expex, splitting 'cit' on " - ".
+
+    Parameters:
+    - data (list[dict]): List of annotation dictionaries containing 'cit', 'word', 'sujs', 'sujp', and 'trans'.
+
+    Returns:
+    - str: LaTeX glosses formatted for the expex package.
+    """
+    glosses = []
+
+    for entry in data:
+        if entry.get('sujs') == entry.get('sujp'):  # Only process SS examples
+            citation = entry['cit']
+            tupi_word = entry['word']
+            translation = entry['trans']
+
+            # Split citation on " - "
+            split_citation = citation.split(" - ")
+            if len(split_citation) == 2:
+                first_line, last_line = split_citation[0], split_citation[1]
+                middle_line = first_line  # Middle line identical to the first
+            else:
+                first_line = middle_line = last_line = citation  # Fallback if split fails
+
+            gloss = f"""
+\\ex
+\\begingl
+\\gla {first_line} //
+\\glb {middle_line} //
+\\glft '{last_line}' //
+\\endgl
+\\xe
+"""
+            glosses.append(gloss)
+
+    return "\n".join(glosses)
 
 # Process data in a single loop
 for e in data:
@@ -23,9 +61,10 @@ for e in data:
             if sujs and sujp:
                 if sujs == sujp:
                     ss_count += 1  # Increment SS count
+                    print(create_expex_gloss_v2([tags]))
                 else:
                     ds_count += 1  # Increment DS count
-
+breakpoint()
 # Calculate frequencies
 total_entries_no_duplicates = len(seen_citations)
 ss_frequency = ss_count / total_entries_no_duplicates * 100 if total_entries_no_duplicates > 0 else 0
@@ -33,7 +72,7 @@ ds_frequency = ds_count / total_entries_no_duplicates * 100 if total_entries_no_
 
 # Results
 final_results = {
-    "Total Entries (No Duplicates)": total_entries_no_duplicates,
+    "Total Entries": total_entries_no_duplicates,
     "SS Count": ss_count,
     "SS Frequency (%)": round(ss_frequency, 2),
     "DS Count": ds_count,
@@ -60,7 +99,7 @@ def generate_latex_macros(results):
     - str: LaTeX-friendly macro definitions as a string.
     """
     latex_macros = [
-        f"\\newcommand{{\\totalN}}{{{results['Total Entries (No Duplicates)']}}}",
+        f"\\newcommand{{\\totalN}}{{{results['Total Entries']}}}",
         f"\\newcommand{{\\ssCount}}{{{results['SS Count']}}}",
         f"\\newcommand{{\\ssFrequency}}{{{results['SS Frequency (%)']:.2f}}}",
         f"\\newcommand{{\\dsCount}}{{{results['DS Count']}}}",
@@ -109,7 +148,7 @@ print_results_latex_with_macros(final_results)
 
 def create_latex_table_from_df(df, caption, label):
     """
-    Generates a LaTeX table from a DataFrame.
+    Generates a LaTeX table from a DataFrame, sorted by DS Annotation Count descending.
 
     Parameters:
     - df (pd.DataFrame): The DataFrame to convert to a LaTeX table.
@@ -119,9 +158,15 @@ def create_latex_table_from_df(df, caption, label):
     Returns:
     - str: LaTeX table as a string.
     """
+    # Calculate DS Annotation Count
+    df = df.copy()
+    df['DS Annotation Count'] = df['Annotation Count'] - df['SS Annotation Count']
+    # Sort descending by DS Annotation Count
+    df_sorted = df.sort_values(by='DS Annotation Count', ascending=False)
+
     latex_rows = []
-    for _, row in df.iterrows():
-        latex_rows.append(f"{row['Source']} & {row['Annotation Count']-row['SS Annotation Count']} & {row['SS Annotation Count']} \\\\")
+    for _, row in df_sorted.iterrows():
+        latex_rows.append(f"{row['Source']} & {row['DS Annotation Count']} & {row['SS Annotation Count']} \\\\")
     
     latex_table = f"""
 \\begin{{table}}[h!]
